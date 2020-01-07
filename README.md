@@ -102,7 +102,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Rota.rocks](https://rota.rocks) - Convert your Wordpress posts to an iOS app.
 - [rulai](https://www.rul.ai) - AI Chatbot to Deliver Scalable Self Service
 - [Smooch](https://smooch.io) - Instantly deploy your bots wherever users are.
-- [Tinybot](https://tinybot.co) - Easily create powerful Twitter bots, no code necessary.
 
 ## Collaboration
 
@@ -152,7 +151,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Mailchimp](https://www.mailchimp.com) - Email marketing & automation
 - [Mailupnext](https://mailupnext.com) - Mailupnext provides reliable and affordable bulk email sending service that ensures delivery of your promotional emails.
 - [Postcards](https://designmodo.com/postcards) - Create awesome emails with drag & drop simplicity.
-- [Revue](https://getrevue.co) - An editorial newsletter tool for writers and publishers.
 - [Sendgrid](https://sendgrid.com) - Email delivery service.
 - [Stripo](https://stripo.email) - Free email template builder.
 - [Substack](https://substack.com/) - Paid newsletters made simple
@@ -185,7 +183,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Landen](https://landen.co) - The website builder for startups.
 - [Launchaco](https://launchaco.com) - Simple landing pages for your startup
 - [Leadpages](https://leadpages.net) - Landing page builder & lead gen software.
-- [Leeflets](https://https://leeflets.com) - Functional landing pages for all kinds of things.
+- [Leeflets](https://leeflets.com) - Functional landing pages for all kinds of things.
 - [PageXL](https://pagexl.com) - One-page website and store builder
 - [RIVYT](https://rivyt.com) - Websites for Video Creators
 - [Unbounce](https://unbounce.com) - Landing Pages - More Powerful Customization‎
@@ -198,7 +196,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [FORTVISION](https://fortvision.com/) - Create interactive experiences that lead to higher conversions.
 - [Hotjar](https://hotjar.com) - See how your visitors are really using your site.
 - [Hubspot](https://hubspot.com) - A full platform of marketing, sales, customer service, and CRM software.
-- [Outgrow](https://outgrow.com) - Boost Your Marketing with Highly Interactive Content.
 - [Rewardful](https://www.getrewardful.com) - Instant Affiliate & Referral Programs for Stripe
 - [Screenzy](https://screenzy.io) - Screenshot beautifier
 - [Ship](https://producthunt.com/ship) - A toolkit to ship awesome products, by Product Hunt ⛵️
@@ -210,7 +207,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Appstylo](https://appstylo.com) - Mobile App builder maker
 - [Bravo Studio](https://www.bravostudio.app/) - Where your designs become real native apps
 - [Dropsource](https://dropsource.com) - Build & publish a native mobile app without writing any code.
-- [Kinetise](https://kinetise.com) - Rapid Mobile Apps Development Platform
 - [Lightwell](https://lightwell.pro) - A simple tool for creating native iOS apps on Mac.
 - [miniAppMaker](https://miniAppMaker.com) - Make mobile apps using Airtable!
 - [Thunkable](https://thunkable.com) - The No-Code App Builder
@@ -238,7 +234,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Voice
 
 - [ApiToBot](https://apitobot.io) - Create an Alexa Skill or Google Action in minutes.
-- [Voice](https://voice.tech) - Controlled Conversational AI with No-Code
 - [Vuix](https://vuix.io) - Design voice apps in minutes.
 
 ## VR
@@ -258,14 +253,12 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Websites
 
-- [AirList](https://www.airlist.site) - Create directory listing sites in minutes
 - [Bloggi](https://bloggi.co) - A simple blogging platform
 - [Bookmark](https://www.bookmark.com) - Create a Website with AI
 - [Grapedrop](https://grapedrop.com) - Free and custom websites and landing pages
 - [IM Creator](https://www.imcreator.com) - Free Website Builder
 - [Jimdo](https://www.jimdo.com) - Your Website Builder‎
-- [Mason](https://www.trymason.com) - Front-end as a Service
-- [Memberspace](https://memberspace.com) - Turn your audience into paying members.
+- [Memberspace](https://www.memberspace.com) - Turn your audience into paying members.
 - [Sheet2Site](https://sheet2site.com) - Turn your 📗 Google Sheets into 🎨 professional websites
 - [Squarespace](squarespace.com) - All-in-one platform to build a beautiful online presence.
 - [Strikingly](https://www.strikingly.com) - Make a website in minutes
