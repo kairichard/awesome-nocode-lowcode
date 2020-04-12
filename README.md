@@ -16,7 +16,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
   - [Chatbots](#chatbots)
   - [Collaboration](#collaboration)
   - [CRM](#crm)
-  - [Data](#data)
+  - [Data & Scraping](#data--scraping)
   - [Database](#database)
   - [Design](#design)
   - [Ecommerce](#ecommerce)
@@ -54,6 +54,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Google Analytics](https://analytics.google.com) - Free website analytics.
 - [VisualSitemaps](https://visualsitemaps.com) - Autogenerate Visual Sitemaps & Screenshots in Seconds
 - [Simple Analytics](https://simpleanalytics.io) - Simple, clean, and friendly analytics.
+- [Posthog](https://posthog.com/) - Open source product analytics.
 
 ## Automation
 
@@ -70,7 +71,9 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Oplim](https://oplim.com) - Custom Tasks on Your Website with Zero Code
 - [Parabola](https://parabola.io) - Drag-and-drop to automate your repetitive tasks.
 - [Phantombuster](https://phantombuster.com) - A marketplace of simple to use no-code APIs
+- [pipedream](https://pipedream.com/) - The integration platform built for developers
 - [Simple scraper](https://simplescraper.io) - The web is your API
+- [stdlib](https://stdlib.com/) -  An online IDE for connecting APIs together
 - [Tiller Money](https://www.tillerhq.com) - Your financial life in a spreadsheet, automatically updated each day.
 - [Tray](https://tray.io) - Advanced integration platform for connecting up the tools you use every day.
 - [Webmerge](https://www.webmerge.me/) - Document automation software
@@ -84,6 +87,8 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Eyelet](https://eyelet.io) - Create interactive guidance for your product without code
 - [Fliplet](https://fliplet.com) - The smart way to create custom apps
 - [Internal](https://internal.io) - Console-as-a-service, better tools for customer-facing teams
+- [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/) - Connect your business-critical apps and services with Azure Logic Apps, automating your workflows without writing a single line of code.
+- [Mintdata](https://mintdata.com/) - Use the full power of a spreadsheet to create application logic.
 - [Ninox](https://ninoxdb.de) - Create Business Apps for Mac, iPad and iPhone.
 - [Plant An App](https://www.plantanapp.com) - The Secret Weapon of Software Development
 - [Quick Base](https://quickbase.com) - The best way to manage data and automate processes, so you can accomplish more.
@@ -105,6 +110,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Collaboration
 
+- [Fibery](https://fibery.io) - Instead of trying to make scattered tools work, Build your own workspace
 - [Notion](https://notion.so) - The all-in-one workspace - notes, tasks, wikis, & databases.
 - [Quip](https://quip.com) - One place for all your team’s work.
 
@@ -113,18 +119,25 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Kartra](https://kartra.com) - Online Business Made Easy
 - [Salesflare](https://salesflare.com) - Simple yet powerful CRM for small businesses selling B2B.
 
-## Data
+## Data & Scraping
 
+- [APIFY](https://apify.com/) - Extract data from any website
+- [flatfile](https://flatfile.io/) - The elegant import button for your web app
 - [Hunter](https://hunter.io/?via=joe) - Find email addresses in seconds.
+- [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds
 - [Terrene](https://www.terrene.co/no-code-machine-learning-with-terrene) - No code machine learning
 
 ## Database
 
+- [Forest Admin](https://www.forestadmin.com/) - The admin panel framework
 - [Go](https://www.123Go.io) - Low-Code for Enterprise Databases
+- [Hasura](https://hasura.io/) - Get realtime GraphQL APIs instantly
+- [Metabase](https://www.metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
+- [PostGraphile](https://www.graphile.org/) - Extensible high-performance automatic GraphQL API for PostgreSQL
 - [ResponseVault](https://ResponseVault.com) - Use a grid-based form builder in your custom app.
 - [Tabbli](https://tabbli.com/) - Manage your business data and automate processes.
 - [Tadabase](https://tadabase.io) - No Code Database Web App Builder
-- [Trevor](Https://www.trevor.io) - Query your live data, without code.
+- [Trevor](https://www.trevor.io) - Query your live data, without code.
 
 ## Design
 
@@ -165,10 +178,11 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Involve.Me](https://www.involve.me) - Build customizable widgets like quizzes, forms & calculators
 - [Jotform](https://jotform.com) - Online Form Builder & Form Creator.
 - [Paperform](https://paperform.co) - Beautiful Forms That Feel Like Yours
-  
+
 ## Games
 
 - [Construct](https://www.construct.net) - Game Making Software
+- [Yoyo Games](https://www.yoyogames.com/) - It has everything you need to take your idea from concept to finished game.
 
 ## Internal
 
@@ -202,16 +216,16 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Mobile Apps
 
+- [Adalo](https://www.adalo.com/) - Turn Your Amazing App Concept Into Reality Without Coding!
 - [AppOnboard Studio](https://apponboard.com/) - Where app ideas come to life. No code required.
 - [Appspotr](https://appspotr.com) - Create epic apps without coding
 - [Appstylo](https://appstylo.com) - Mobile App builder maker
 - [Bravo Studio](https://www.bravostudio.app/) - Where your designs become real native apps
+- [draftbit](https://draftbit.com/) - Create, customize, and launch mobile apps all from your browser. Source code included.
 - [Dropsource](https://dropsource.com) - Build & publish a native mobile app without writing any code.
 - [Lightwell](https://lightwell.pro) - A simple tool for creating native iOS apps on Mac.
 - [miniAppMaker](https://miniAppMaker.com) - Make mobile apps using Airtable!
 - [Thunkable](https://thunkable.com) - The No-Code App Builder
-- [Web To Android-as-JSON Converter](https://webtoandroid.herokuapp.com/) - Convert any web app into a JSON based Android project
-
 
 ## Payments
 
@@ -230,6 +244,11 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Loom](https://loom.com) - Seamless screen, mic, and camera recording for Chrome
 
 ## Visual Programming
+
+- [Dark Lang](https://darklang.com/) - Build an entire backend in just hours.
+- [graphqleditor](https://graphqleditor.com/) - A Better Way to GraphQL
+- [Refinery](https://www.refinery.io/) - Write a feature in less than the time it takes to have a meeting about it.
+- [Storyscript Prelaunch](https://storyscript.com/) - Magical coding notebook for tomorrow’s developer.
 
 ## Voice
 
@@ -253,6 +272,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Websites
 
+- [appsmith_](https://www.appsmith.com/) - Frontend as a Service to build internal apps
 - [Bloggi](https://bloggi.co) - A simple blogging platform
 - [Bookmark](https://www.bookmark.com) - Create a Website with AI
 - [Grapedrop](https://grapedrop.com) - Free and custom websites and landing pages
@@ -265,15 +285,17 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Tilda](https://tilda.cc) - Create beautiful websites without any code.
 - [Udesly](https://www.udesly.com) - Use Webflow to create WordPress and Shopify Themes
 - [Universe](https://onuniverse.com) - Make an awesome website from your phone.
+- [Versoly](https://versoly.com/) - The Easiest Way to Build Your SaaS Website
+- [Webflow](https://webflow.com/) - Break the code barrier, Build better business websites, faster. Without coding.
 - [Webnode](https://www.webnode.com) - Easy & Free Website Maker
 - [Weebly](https://www.weebly.com) - Build a Free Website or Online Store
 - [Weld](https://www.weld.io) - Be creative without code – Interactive content tool
 - [Without Code](https://www.wocode.com) - Code Free Website Builder
-- [Wix](https://www.wix.com) - Free Website Builder #asd
+- [Wix](https://www.wix.com) - Free Website Builder
 
 ## Uncategorized
 
-- 
+-
 
 ---
 
@@ -287,7 +309,9 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Blog Posts
 
--
+- http://hasura-forest-admin.surge.sh/
+- https://www.feval.ca/posts/logicapp-ci/
+- https://zapier.com/help/create/code-webhooks/use-javascript-code-in-zaps
 
 ---
 
