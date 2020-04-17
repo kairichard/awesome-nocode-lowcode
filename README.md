@@ -77,6 +77,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Tiller Money](https://www.tillerhq.com) - Your financial life in a spreadsheet, automatically updated each day.
 - [Tray](https://tray.io) - Advanced integration platform for connecting up the tools you use every day.
 - [Webmerge](https://www.webmerge.me/) - Document automation software
+- [Zapier](https://zapier.com) - Automate tasks by integrating your favorite apps.
 
 ## Business Apps
 
@@ -129,6 +130,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Database
 
+- [Airtable](https://airtable.com) - Database / Spreadsheet mashup
 - [Forest Admin](https://www.forestadmin.com/) - The admin panel framework
 - [Go](https://www.123Go.io) - Low-Code for Enterprise Databases
 - [Hasura](https://hasura.io/) - Get realtime GraphQL APIs instantly
