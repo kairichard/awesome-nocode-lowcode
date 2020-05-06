@@ -126,7 +126,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [flatfile](https://flatfile.io/) - The elegant import button for your web app
 - [Hunter](https://hunter.io/?via=joe) - Find email addresses in seconds.
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds
-- [Terrene](https://www.terrene.co/no-code-machine-learning-with-terrene) - No code machine learning
 
 ## Database
 
@@ -144,7 +143,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Design
 
 - [Figma](https://figma.com) - The first interface design tool with real-time collaboration
-- [Pastryy](https://www.pastryy.com) - We provide quality designer feedback on the designs you're working on in less than 24 hours.
 - [STUDIO](https://studio.design/) - Design to live website in one click.
 - [unDraw](https://undraw.co) - Free, open-source illustrations for every project.
 
@@ -164,7 +162,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [BEE](https://beefree.io) - Create beautiful emails, fast.
 - [EDMdesigner](https://edmdesigner.com) - Responsive email design made simple.
 - [Mailchimp](https://www.mailchimp.com) - Email marketing & automation
-- [Mailupnext](https://mailupnext.com) - Mailupnext provides reliable and affordable bulk email sending service that ensures delivery of your promotional emails.
 - [Postcards](https://designmodo.com/postcards) - Create awesome emails with drag & drop simplicity.
 - [Sendgrid](https://sendgrid.com) - Email delivery service.
 - [Stripo](https://stripo.email) - Free email template builder.
@@ -265,7 +262,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Adalo](https://www.adalo.com) - Create an app without code.
 - [Boundless](https://boundlesslabs.com) - Create dynamic, multisided web applications without code.
-- [Caravel Studio](https://www.caravelstudio.io) - Code not, web application build
 - [Cloud Canal](https://www.cloudcanal.io) - Static Sites -> Web Apps
 - [Corvid](https://wix.com/corvid) - Build advanced web applications, hassle-free.
 - [SpreadsheetWeb](https://www.spreadsheetweb.com) - A NoCode platform for Excel users
