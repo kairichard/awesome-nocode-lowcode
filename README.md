@@ -151,7 +151,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Ecommerce
 
 - [Big Cartel](https://www.bigcartel.com) - Easy online stores for artists & makers
-- [Elliot](https://elliot.store) - Ecommerce. Simplified.
 - [Gumroad](https://gumroad.com) - Sell anything directly to anyone.
 - [Hingeto](https://hingeto.com) - Start your own Amazon-style marketplace.
 - [Monto](https://monto.io) - Product Reviews for Webflow (and Foxy).
@@ -198,7 +197,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Landen](https://landen.co) - The website builder for startups.
 - [Launchaco](https://launchaco.com) - Simple landing pages for your startup
 - [Leadpages](https://leadpages.net) - Landing page builder & lead gen software.
-- [Leeflets](https://leeflets.com) - Functional landing pages for all kinds of things.
 - [PageXL](https://pagexl.com) - One-page website and store builder
 - [RIVYT](https://rivyt.com) - Websites for Video Creators
 - [Unbounce](https://unbounce.com) - Landing Pages - More Powerful Customization‎
@@ -223,8 +221,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Appstylo](https://appstylo.com) - Mobile App builder maker
 - [Bravo Studio](https://www.bravostudio.app/) - Where your designs become real native apps
 - [draftbit](https://draftbit.com/) - Create, customize, and launch mobile apps all from your browser. Source code included.
-- [Dropsource](https://dropsource.com) - Build & publish a native mobile app without writing any code.
-- [Lightwell](https://lightwell.pro) - A simple tool for creating native iOS apps on Mac.
 - [miniAppMaker](https://miniAppMaker.com) - Make mobile apps using Airtable!
 - [Thunkable](https://thunkable.com) - The No-Code App Builder
 
@@ -253,7 +249,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Voice
 
-- [ApiToBot](https://apitobot.io) - Create an Alexa Skill or Google Action in minutes.
 - [Vuix](https://vuix.io) - Design voice apps in minutes.
 
 ## VR
