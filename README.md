@@ -90,6 +90,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Fliplet](https://fliplet.com) - The smart way to create custom apps
 - [Internal](https://internal.io) - Console-as-a-service, better tools for customer-facing teams
 - [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/) - Connect your business-critical apps and services with Azure Logic Apps, automating your workflows without writing a single line of code.
+- [Lowdefy](https://lowdefy.com) - An open-source low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with ease by simply writing YAML.
 - [Mintdata](https://mintdata.com/) - Use the full power of a spreadsheet to create application logic.
 - [Ninox](https://ninoxdb.de) - Create Business Apps for Mac, iPad and iPhone.
 - [Plant An App](https://www.plantanapp.com) - The Secret Weapon of Software Development
