@@ -84,6 +84,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [AppSheet](https://appsheet.com) - The intelligent no-code app development platform.
 - [Betty Blocks](https://BettyBlocks.com) - No-code - Enterprise Application Development Platform
+- [Budibase](https://budibase.com) - Powerful low-code app builder for creating internal tools in minutes.
 - [Community.lawyer](https://community.lawyer/) - No-code App Builder designed specifically for legal service professionals
 - [DronaHQ](https://dronahq.com) - Build Business Apps Without Coding
 - [Eyelet](https://eyelet.io) - Create interactive guidance for your product without code
