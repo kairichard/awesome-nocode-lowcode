@@ -295,7 +295,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Uncategorized
 
--
+- [ApexOracle](https://apex.oracle.com/en) - Build enterprise apps 20x faster with 100x less code.
 
 ---
 
