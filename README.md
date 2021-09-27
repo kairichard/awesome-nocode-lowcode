@@ -135,6 +135,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Database
 
 - [Airtable](https://airtable.com) - Database / Spreadsheet mashup
+- [NocoDB](https://github.com/nocodb/nocodb) - Free & Open Source Airtable Alternative - turns any SQL databases into smart spreadsheet.
 - [Forest Admin](https://www.forestadmin.com/) - The admin panel framework
 - [Go](https://www.123Go.io) - Low-Code for Enterprise Databases
 - [Hasura](https://hasura.io/) - Get realtime GraphQL APIs instantly
