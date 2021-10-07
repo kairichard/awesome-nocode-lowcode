@@ -140,6 +140,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Go](https://www.123Go.io) - Low-Code for Enterprise Databases
 - [Hasura](https://hasura.io/) - Get realtime GraphQL APIs instantly
 - [Metabase](https://www.metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
+- [Motor Admin](https://www.getmotoradmin.com/) - Open-source, self-hosted Admin Panel and Business Intelligence software.
 - [PostGraphile](https://www.graphile.org/) - Extensible high-performance automatic GraphQL API for PostgreSQL
 - [ResponseVault](https://ResponseVault.com) - Use a grid-based form builder in your custom app.
 - [Tabbli](https://tabbli.com/) - Manage your business data and automate processes.
