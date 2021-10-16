@@ -280,7 +280,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Grapedrop](https://grapedrop.com) - Free and custom websites and landing pages
 - [IM Creator](https://www.imcreator.com) - Free Website Builder
 - [Jimdo](https://www.jimdo.com) - Your Website Builder‎
-- [Linkz.ai](https:/linkz.ai) - Immersive hyperlink previews to keep visitors on your website
+- [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website
 - [Memberspace](https://www.memberspace.com) - Turn your audience into paying members.
 - [Sheet2Site](https://sheet2site.com) - Turn your 📗 Google Sheets into 🎨 professional websites
 - [Squarespace](squarespace.com) - All-in-one platform to build a beautiful online presence.
