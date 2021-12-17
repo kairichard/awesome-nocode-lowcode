@@ -79,6 +79,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Webmerge](https://www.webmerge.me/) - Document automation software
 - [Zapier](https://zapier.com) - Automate tasks by integrating your favorite apps.
 - [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore.
+- [Outfunnel](https://outfunnel.com) - Connect your sales and marketing data, deeply and easily.
 
 ## Business Apps
 
