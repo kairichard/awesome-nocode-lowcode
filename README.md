@@ -95,6 +95,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Lowdefy](https://lowdefy.com) - An open-source low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with ease by simply writing YAML.
 - [Mintdata](https://mintdata.com/) - Use the full power of a spreadsheet to create application logic.
 - [Ninox](https://ninoxdb.de) - Create Business Apps for Mac, iPad and iPhone.
+- [Nussknacker](https://nussknacker.io) - A visual tool to define and run real-time decision algorithms.
 - [Plant An App](https://www.plantanapp.com) - The Secret Weapon of Software Development
 - [Quick Base](https://quickbase.com) - The best way to manage data and automate processes, so you can accomplish more.
 - [Zoho Creator](https://www.zoho.com/creator) - Custom apps to run your business.
