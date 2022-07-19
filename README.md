@@ -215,6 +215,8 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Machine Learning
 
+- [Liner.ai](https://liner.ai/) - Train deep learning models on your computer without Code.
+
 ## Marketing
 
 - [Fomo](https://fomo.com) - Social Proof Marketing Platform
