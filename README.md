@@ -192,8 +192,9 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Games
 
-- [Construct](https://www.construct.net) - Game Making Software
+- [Construct](https://www.construct.net) - Game making software
 - [Yoyo Games](https://www.yoyogames.com/) - It has everything you need to take your idea from concept to finished game.
+- [GDevelop](https://gdevelop.io/) - Open source game making software
 
 ## Internal
 
