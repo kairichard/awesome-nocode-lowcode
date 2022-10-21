@@ -191,6 +191,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Paperform](https://paperform.co) - Beautiful Forms That Feel Like Yours
 - [Typeform](https://www.typeform.com) - Create forms and surveys that people enjoy answering
 - [Tally](https://tally.so) - The simplest way to create forms that works like a doc
+- [Feathery](https://feathery.io) - Powerful form builder for product teams
 
 ## Games
 
