@@ -101,6 +101,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Plant An App](https://www.plantanapp.com) - The Secret Weapon of Software Development
 - [Quick Base](https://quickbase.com) - The best way to manage data and automate processes, so you can accomplish more.
 - [Zoho Creator](https://www.zoho.com/creator) - Custom apps to run your business.
+- [Novacura](https://www.novacura.com) - Streamline your processes with mobile and fully-adaptable software solutions. Extend your ERP with ready to use low-code applications or create your own.
 
 ## Chatbots
 
