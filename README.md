@@ -264,7 +264,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Visual Programming
 
-- [Dark Lang](https://darklang.com/) - Build an entire backend in just hours.
+- [Darklang](https://darklang.com/) - Build an entire backend in just hours.
 - [graphqleditor](https://graphqleditor.com/) - A Better Way to GraphQL
 - [Refinery](https://www.refinery.io/) - Write a feature in less than the time it takes to have a meeting about it.
 - [Storyscript Prelaunch](https://storyscript.com/) - Magical coding notebook for tomorrow’s developer.
