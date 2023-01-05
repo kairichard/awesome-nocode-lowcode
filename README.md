@@ -188,6 +188,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [FlexyForm](https://www.flexyform.com) - Contact Forms Backend as Service
 - [Formester](https://formester.com) - Form that blends with your brand theme
 - [Google Forms](https://forms.google.com) - Free forms from Google, that connect directly to Google Sheets.
+- [HeyForm](https://heyform.net) - Create captivating online forms without coding knowledge
 - [InteractiveCalculator](https://www.interactivecalculator.com) - Make calculators with no code and add them on your site
 - [Involve.Me](https://www.involve.me) - Build customizable widgets like quizzes, forms & calculators
 - [Jotform](https://jotform.com) - Online Form Builder & Form Creator.
@@ -211,6 +212,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Landing Pages
 
+- [EarlyBird](https://earlybird.im) - Create landing pages to validate early-stage business ideas.
 - [Instapage](https://instapage.com) - Landing pages, up to 6x more conversions.
 - [Landen](https://landen.co) - The website builder for startups.
 - [Launchaco](https://launchaco.com) - Simple landing pages for your startup
@@ -233,6 +235,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Rewardful](https://www.getrewardful.com) - Instant Affiliate & Referral Programs for Stripe
 - [Screenzy](https://screenzy.io) - Screenshot beautifier
 - [Ship](https://producthunt.com/ship) - A toolkit to ship awesome products, by Product Hunt ⛵️
+- [TinySnap](https://tinysnap.app) - A browser extension to capture screen and beautify screenshots
 
 ## Mobile Apps
 
