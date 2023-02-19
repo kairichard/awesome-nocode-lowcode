@@ -59,6 +59,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Automation
 
 - [ActionDesk](https://actiondesk.io) - The spreadsheet that lets you gather and control all your data in one place.
+- [Activepieces](https://www.activepieces.com) - A no-code tool to automate your business.
 - [Automate.io](https://automate.io) - Put your business on autopilot. Connect 100+ business apps.
 - [Blockspring](https://blockspring.com) - Supercharge your list building, reporting, and landing pages.
 - [Clay](https://clay.run) - Build tools & workflows to supercharge your team
