@@ -63,7 +63,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Automate.io](https://automate.io) - Put your business on autopilot. Connect 100+ business apps.
 - [Blockspring](https://blockspring.com) - Supercharge your list building, reporting, and landing pages.
 - [Clay](https://clay.run) - Build tools & workflows to supercharge your team
-- [Cronit](https://cronit.app) - Plan, schedule and run recurring cron jobs online 
+- [Cronit](https://cronit.app) - Plan, schedule and run recurring cron jobs online
 - [IFTTT](https://ifttt.com) - Do more with the services you love.
 - [Integromat](https://integromat.com) - The glue of the internet.
 - [Linx](https://linx.software) - Low-code Development for IT Pros
@@ -82,6 +82,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Zapier](https://zapier.com) - Automate tasks by integrating your favorite apps.
 - [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore.
 - [Outfunnel](https://outfunnel.com) - Connect your sales and marketing data, deeply and easily.
+- [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment.
 
 ## Business Apps
 
