@@ -159,6 +159,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Design
 
 - [Figma](https://figma.com) - The first interface design tool with real-time collaboration
+- [Penpot](https://penpot.app) - Open source, web-based interface design application.
 - [STUDIO](https://studio.design/) - Design to live website in one click.
 - [unDraw](https://undraw.co) - Free, open-source illustrations for every project.
 
