@@ -116,7 +116,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Chatfuel](https://chatfuel.com) - Create chatbots to engage with your audience on messengers
 - [Flow XO](https://flowxo.com) - Create a chatbot with zero coding skills required
 - [Instabot](https://instabot.io) - A Conversion Chatbot for Your Website
-- [It's Alive](https://itsalive.io) - Create a Facebook bot in minutes
 - [Landbot](https://landbot.io) - Lead generation landing page as chatbot.
 - [Manychat](https://manychat.com) - Create a Messenger bot to engage your audience. No coding!
 - [Rota.rocks](https://rota.rocks) - Convert your Wordpress posts to an iOS app.
@@ -153,7 +152,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Motor Admin](https://www.getmotoradmin.com/) - Open-source, self-hosted Admin Panel and Business Intelligence software.
 - [PostGraphile](https://www.graphile.org/) - Extensible high-performance automatic GraphQL API for PostgreSQL
 - [ResponseVault](https://ResponseVault.com) - Use a grid-based form builder in your custom app.
-- [Tabbli](https://tabbli.com/) - Manage your business data and automate processes.
 - [Tadabase](https://tadabase.io) - No Code Database Web App Builder
 - [Trevor](https://www.trevor.io) - Query your live data, without code.
 - [Draxlr](https://www.draxlr.com) - Build Dashboards, Get Alerts.
@@ -169,7 +167,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Big Cartel](https://www.bigcartel.com) - Easy online stores for artists & makers
 - [Gumroad](https://gumroad.com) - Sell anything directly to anyone.
-- [Hingeto](https://hingeto.com) - Start your own Amazon-style marketplace.
 - [Monto](https://monto.io) - Product Reviews for Webflow (and Foxy).
 - [Podia](https://podia.com) - Easily sell memberships, online courses & digital downloads.
 - [Shopify](https://shopify.com) - Build your ecommerce store.
@@ -189,7 +186,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Forms
 
 - [Convertigo](https://www.convertigo.com/) - Create Forms based applications with no coding.
-- [Dislack](https://dislack.com/) - Form creation for the modern maker.
 - [Feathery](https://feathery.io) - Powerful form builder for product teams
 - [FlexyForm](https://www.flexyform.com) - Contact Forms Backend as Service
 - [Formester](https://formester.com) - Form that blends with your brand theme
@@ -221,7 +217,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [EarlyBird](https://earlybird.im) - Create landing pages to validate early-stage business ideas.
 - [Instapage](https://instapage.com) - Landing pages, up to 6x more conversions.
-- [Landen](https://landen.co) - The website builder for startups.
 - [Launchaco](https://launchaco.com) - Simple landing pages for your startup
 - [Leadpages](https://leadpages.net) - Landing page builder & lead gen software.
 - [PageXL](https://pagexl.com) - One-page website and store builder
@@ -266,7 +261,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Octoparse](https://octoparse.com) - Easy Web Scraping for Anyone
 - [Parsehub](https://parsehub.com) - Free web scraping.
-- [Spider](https://tryspider.com) - Turn websites into organized data without code.
 
 ## Video
 
@@ -276,8 +270,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Darklang](https://darklang.com/) - Build an entire backend in just hours.
 - [graphqleditor](https://graphqleditor.com/) - A Better Way to GraphQL
-- [Refinery](https://www.refinery.io/) - Write a feature in less than the time it takes to have a meeting about it.
-- [Storyscript Prelaunch](https://storyscript.com/) - Magical coding notebook for tomorrow’s developer.
 
 ## Voice
 
@@ -290,7 +282,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Web Apps
 
 - [Adalo](https://www.adalo.com) - Create an app without code.
-- [Boundless](https://boundlesslabs.com) - Create dynamic, multisided web applications without code.
 - [Bubble](https://bubble.io/) - Build production-ready web apps.
 - [Cloud Canal](https://www.cloudcanal.io) - Static Sites -> Web Apps
 - [Convertigo](https://www.convertigo.com/) - Create Web Applications with low code and no code
@@ -341,7 +332,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Blog Posts
 
 - http://hasura-forest-admin.surge.sh/
-- https://www.feval.ca/posts/logicapp-ci/
 - https://zapier.com/help/create/code-webhooks/use-javascript-code-in-zaps
 
 ---
