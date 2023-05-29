@@ -26,4 +26,4 @@ jobs:
     - name: Install Bot
       run: gem install awesome_bot
     - name: Run Bot
-      run: awesome_bot README.md --allow-dupe --allow-redirect --white-list "memberspace.com,oracle.com"
+      run: awesome_bot README.md --allow-dupe --allow-redirect --white-list "memberspace.com,oracle.com,autocode.com"
