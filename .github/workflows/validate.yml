@@ -13,18 +13,15 @@ permissions:
   contents: read
 
 jobs:
-  test:
+  validate:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        ruby-version: ['3.0']
 
     steps:
     - uses: actions/checkout@v3
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: ${{ matrix.ruby-version }}
+        ruby-version: 3.2.2
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Install Bot
       run: gem install awesome_bot
