@@ -2,7 +2,8 @@
 # Awesome NoCode / LowCode
 A curated list of delightful NoCode / LowCode applications and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kairichard/awesome-nocode-lowcode.svg)](https://travis-ci.org/kairichard/awesome-nocode-lowcode)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![example workflow](https://github.com/kairichard/awesome-nocode-lowcode/actions/workflows/validate.yml/badge.svg)
+
 </div>
 <br/>
 
