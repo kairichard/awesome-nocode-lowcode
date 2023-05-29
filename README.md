@@ -76,7 +76,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Phantombuster](https://phantombuster.com) - A marketplace of simple to use no-code APIs
 - [pipedream](https://pipedream.com/) - The integration platform built for developers
 - [Simple scraper](https://simplescraper.io) - The web is your API
-- [stdlib](https://stdlib.com/) -  An online IDE for connecting APIs together
+- [Autocode](https://autocode.com/) -  Turn ideas into software with AI
 - [Tiller Money](https://www.tillerhq.com) - Your financial life in a spreadsheet, automatically updated each day.
 - [Tray](https://tray.io) - Advanced integration platform for connecting up the tools you use every day.
 - [Webmerge](https://www.webmerge.me/) - Document automation software
