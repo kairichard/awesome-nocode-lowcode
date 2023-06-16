@@ -250,6 +250,8 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [draftbit](https://draftbit.com/) - Create, customize, and launch mobile apps all from your browser. Source code included.
 - [miniAppMaker](https://miniAppMaker.com) - Make mobile apps using Airtable!
 - [Thunkable](https://thunkable.com) - The No-Code App Builder
+- [Utilize](https://www.utilize.app) - Apps from Google Sheets, in minutes. 
+- [NotionApps](https://www.notionapps.com) - Builder powerful apps from Notion databases. Share limited views or private apps.
 
 ## Payments
 
