@@ -199,6 +199,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Paperform](https://paperform.co) - Beautiful Forms That Feel Like Yours
 - [Typeform](https://www.typeform.com) - Create forms and surveys that people enjoy answering
 - [Tally](https://tally.so) - The simplest way to create forms that works like a doc
+- [FormNX](https://formnx.com) - Create Powerful Forms That Converts Without Coding. It provides a lot of [form templates](https://formnx.com/form-templates), drag-n-drop interface, Smart Conditional Logic, Spam Protection, Reporting & Charts, Automation, Password Protection, integrations & lot more.
 
 ## Games
 
