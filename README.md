@@ -273,6 +273,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Darklang](https://darklang.com/) - Build an entire backend in just hours.
 - [graphqleditor](https://graphqleditor.com/) - A Better Way to GraphQL
+- [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications
 
 ## Voice
 
