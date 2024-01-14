@@ -97,7 +97,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/) - Connect your business-critical apps and services with Azure Logic Apps, automating your workflows without writing a single line of code.
 - [Lowdefy](https://lowdefy.com) - An open-source low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with ease by simply writing YAML.
 - [Mintdata](https://mintdata.com/) - Use the full power of a spreadsheet to create application logic.
-- [Naologic](https://naologic.com) - No-code App Builder for enterprise resource planning (ERP) apps
+- [Naologic](https://naologic.com) - Productivity apps built by business users and process-driven professionals to simplify and automate complex processes.
 - [Ninox](https://ninoxdb.de) - Create Business Apps for Mac, iPad and iPhone.
 - [Nussknacker](https://nussknacker.io) - A visual tool to define and run real-time decision algorithms.
 - [Triggre](https://www.triggre.com/) - Replace outdated software with custom no-code business applications.
