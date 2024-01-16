@@ -135,6 +135,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Data & Scraping
 
 - [APIFY](https://apify.com/) - Extract data from any website
+- [SmartXML]([https://apify.com/](https://redata.dev/smartxml/)) - An application for parsing XML of any complexity with support SQLite and PostgreSQL
 - [flatfile](https://flatfile.io/) - The elegant import button for your web app
 - [Hunter](https://hunter.io/?via=joe) - Find email addresses in seconds.
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds
