@@ -184,6 +184,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Forms
 
+- [ActiveCalculator](https://activecalculator.com) - Create custom calculators for your website with no-code builder.
 - [Convertigo](https://www.convertigo.com/) - Create Forms based applications with no coding.
 - [Feathery](https://feathery.io) - Powerful form builder for product teams
 - [FlexyForm](https://www.flexyform.com) - Contact Forms Backend as Service
