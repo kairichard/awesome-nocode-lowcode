@@ -77,7 +77,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Autocode](https://autocode.com/) -  Turn ideas into software with AI
 - [Tiller Money](https://www.tillerhq.com) - Your financial life in a spreadsheet, automatically updated each day.
 - [Tray](https://tray.io) - Advanced integration platform for connecting up the tools you use every day.
-- [Webmerge](https://www.webmerge.me/) - Document automation software
+- [Formstack](https://www.webmerge.me/) - Document automation software
 - [Zapier](https://zapier.com) - Automate tasks by integrating your favorite apps.
 - [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore.
 - [Outfunnel](https://outfunnel.com) - Connect your sales and marketing data, deeply and easily.
