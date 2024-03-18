@@ -155,6 +155,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Tadabase](https://tadabase.io) - No Code Database Web App Builder
 - [Trevor](https://www.trevor.io) - Query your live data, without code.
 - [Draxlr](https://www.draxlr.com) - Build Dashboards, Get Alerts.
+- [Dashbase](https://www.dashbase.ai) - Build collaborative KPI dashboards from your SQL database.
 
 ## Design
 
