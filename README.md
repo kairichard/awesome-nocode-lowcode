@@ -231,6 +231,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Machine Learning
 
 - [Liner.ai](https://liner.ai/) - Train deep learning models on your computer without Code.
+- [Mazaal AI](https://mazaal.ai) - No-code AI workflow platform connected with popular 200 apps that you use daily.
 
 ## Marketing
 
