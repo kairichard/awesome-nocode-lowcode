@@ -66,7 +66,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [IFTTT](https://ifttt.com) - Do more with the services you love.
 - [Integromat](https://integromat.com) - The glue of the internet.
 - [Linx](https://linx.software) - Low-code Development for IT Pros
-- [Microsoft Flow](https://flow.microsoft.com) - Automate tasks by integrating your favorite apps.
+- [Microsoft Power Automate](https://flow.microsoft.com) - Previously known as Microsoft Flow, is a SaaS platform by Microsoft for optimizing and automating workflows and business processes.empowering Dynamics 365 line of Products. 
 - [n8n](https://n8n.io) - Free Self-hostable Automation Tool
 - [Nanonets Airtable Models](https://nanonets.com/airtable/) - Build a no-code AI image organizer with Airtable
 - [Oplim](https://oplim.com) - Custom Tasks on Your Website with Zero Code
