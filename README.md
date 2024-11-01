@@ -64,7 +64,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Blockspring](https://blockspring.com) - Supercharge your list building, reporting, and landing pages.
 - [Clay](https://clay.run) - Build tools & workflows to supercharge your team
 - [IFTTT](https://ifttt.com) - Do more with the services you love.
-- [Integromat](https://integromat.com) - The glue of the internet.
+- [Make (formerly Integromat](https://www.make.com/) - The glue of the internet.
 - [Lil'bots](https://www.lilbots.io) - AI bot marketplace - build, deploy and share AI powered bots, with built in API access to top-tier AI services.
 - [Linx](https://linx.software) - Low-code Development for IT Pros
 - [Microsoft Power Automate](https://flow.microsoft.com) - Previously known as Microsoft Flow, is a SaaS platform by Microsoft for optimizing and automating workflows and business processes.empowering Dynamics 365 line of Products. 
