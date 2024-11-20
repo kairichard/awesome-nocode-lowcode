@@ -338,6 +338,11 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - https://codeornocode.com/tutorial/how-to-build-a-low-code-platform/
 
+## Books
+
+- [Low-code handbook](https://lowcode-book.com/)
+  
+
 ## Learning
 
 -
