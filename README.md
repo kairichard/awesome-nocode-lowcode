@@ -262,7 +262,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Payments
 
-- [AND CO](https://www.and.co) - Invoicing, Proposals & Expense Tracking
+- [Fiverr Workspace](https://workspace.fiverr.com) - Invoicing, Proposals & Expense Tracking
 - [Paypal](https://www.paypal.com) - Send Money, Pay Online or Set Up a Merchant Account
 - [Trolley](https://trolley.link) - Get paid with no code
 
