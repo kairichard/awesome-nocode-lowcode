@@ -85,6 +85,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment.
 - [Unito](https://unito.io/) - Bidirectional realtime sync between online apis
 - [Deployment.io](https://deployment.io) - DevOps co-pilot for developers to automate deployments to AWS.
+- [MindStudio](https://mindstudio.ai) - MindStudio lets you rapidly build, deploy, and operate AI Workers — automations, applications, agents. Anyone can build AI Workers rapidly (typically in under 30 minutes). Over 150k AI Workers are deployed across all types of use cases and organizations. AI Workers can be triggered from browser extensions, run automatically on a schedule, be used as components in Zapier, Make, or any other orchestration platform, or integrated into any application that can call an API.
 
 ## Business Apps
 
