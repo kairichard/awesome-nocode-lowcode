@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kairichard-awesome-nocode-lowcode-badge.png)](https://mseep.ai/app/kairichard-awesome-nocode-lowcode)
+
 .0
 # Awesome NoCode / LowCode
 A curated list of delightful NoCode / LowCode applications and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
