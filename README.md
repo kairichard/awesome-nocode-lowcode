@@ -307,6 +307,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Stacker](https://stacker.app) - Build web apps in your browser, without code.
 - [Widgetic](https://widgetic.com) - A marketplace for website building blocks.
 - [Berrry](https://berrry.app) - Transform Twitter posts and Reddit content into functional web applications using AI.
+- [blank-space](https://www.blankspace.build/) - Open-source AI app builder. Alternative to v0, Lovable, and Bolt.
 
 ## Websites
 
