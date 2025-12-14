@@ -280,6 +280,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Video
 
 - [Loom](https://loom.com) - Seamless screen, mic, and camera recording for Chrome
+- [OpenCreator](https://opencreator.ai) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
 
 ## Visual Programming
 
