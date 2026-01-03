@@ -77,6 +77,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Autocode](https://autocode.com/) -  Turn ideas into software with AI
 - [Tiller Money](https://www.tillerhq.com) - Your financial life in a spreadsheet, automatically updated each day.
 - [Tray](https://tray.io) - Advanced integration platform for connecting up the tools you use every day.
+- [Vedika API](https://vedika.io) - B2B Vedic astrology API platform with AI chatbot integration. 108+ endpoints, 22 languages, 97% accuracy. Integrates with Zapier, n8n, Make, and any automation platform via REST API.
 - [Formstack](https://www.webmerge.me/) - Document automation software
 - [Zapier](https://zapier.com) - Automate tasks by integrating your favorite apps.
 - [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore.
