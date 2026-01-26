@@ -11,6 +11,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Awesome NoCode / LowCode](#awesome-nocode--lowcode)
 - [Table of Contents](#table-of-contents)
+  - [Agentic Apps](#agentic-apps)
   - [Analytics](#analytics)
   - [Automation](#automation)
   - [Business Apps](#business-apps)
@@ -49,6 +50,9 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Tutorials](#tutorials)
 - [Learning](#learning)
 - [Blog Posts](#blog-posts)
+
+## Agentic Apps
+- [Manifest](https://www.manifest.build/) - Build governed agentic apps with an AI powered workflow builder.
 
 ## Analytics
 
