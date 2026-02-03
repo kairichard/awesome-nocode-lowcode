@@ -304,6 +304,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Cloud Canal](https://www.cloudcanal.io) - Static Sites -> Web Apps
 - [Convertigo](https://www.convertigo.com/) - Create Web Applications with low code and no code
 - [Corvid](https://wix.com/corvid) - Build advanced web applications, hassle-free.
+- [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
 - [OnOut](https://tools.onout.org/) - Build Blockchain DApps on your own domain in one-click.
 - [SpreadsheetWeb](https://www.spreadsheetweb.com) - A NoCode platform for Excel users
 - [Stacker](https://stacker.app) - Build web apps in your browser, without code.
