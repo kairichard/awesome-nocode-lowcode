@@ -128,7 +128,8 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Fibery](https://fibery.io) - Instead of trying to make scattered tools work, Build your own workspace
 - [Notion](https://notion.so) - The all-in-one workspace - notes, tasks, wikis, & databases.
-- [Quip](https://quip.com) - One place for all your team’s work.
+- [Quip](https://quip.com) - One place for all your team's work.
+- [Taskade](https://taskade.com/) - AI-powered workspace with no-code AI agents, workflow automation, project management, and Genesis app builder for creating apps from natural language.
 
 ## CRM
 
