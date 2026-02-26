@@ -96,6 +96,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [DronaHQ](https://dronahq.com) - Build Business Apps Without Coding
 - [Eyelet](https://eyelet.io) - Create interactive guidance for your product without code
 - [Fliplet](https://fliplet.com) - The smart way to create custom apps
+- [Gatherly](https://gatherly.app) - E-signature and client intake platform for professional services with document requests, eIDAS-qualified signatures, and automated reminders.
 - [Internal](https://internal.io) - Console-as-a-service, better tools for customer-facing teams
 - [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/) - Connect your business-critical apps and services with Azure Logic Apps, automating your workflows without writing a single line of code.
 - [Lowdefy](https://lowdefy.com) - An open-source low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with ease by simply writing YAML.
