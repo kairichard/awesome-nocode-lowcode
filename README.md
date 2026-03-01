@@ -53,6 +53,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Analytics
 
 - [Google Analytics](https://analytics.google.com) - Free website analytics.
+- [PageGuard](https://pageguard.org) - Free website health scanner for SEO, accessibility (WCAG/ADA), performance, and best practices. No signup required.
 - [VisualSitemaps](https://visualsitemaps.com) - Autogenerate Visual Sitemaps & Screenshots in Seconds
 - [Simple Analytics](https://simpleanalytics.io) - Simple, clean, and friendly analytics.
 - [Posthog](https://posthog.com/) - Open source product analytics.
