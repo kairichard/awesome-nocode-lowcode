@@ -293,6 +293,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Darklang](https://darklang.com/) - Build an entire backend in just hours.
 - [graphqleditor](https://graphqleditor.com/) - A Better Way to GraphQL
 - [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications
+- [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser — click any element, describe changes in plain English, and get real code edits. Designed for cross-functional teams.
 
 ## Voice
 
