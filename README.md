@@ -110,6 +110,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Ninox](https://ninoxdb.de) - Create Business Apps for Mac, iPad and iPhone.
 - [Nussknacker](https://nussknacker.io) - A visual tool to define and run real-time decision algorithms.
 - [Triggre](https://www.triggre.com/) - Replace outdated software with custom no-code business applications.
+- [Suriya](https://suriya.ai) - AI-powered app builder for Thai small businesses. Describe your idea, get a working custom app in 5 minutes. No code required. ฿349/month.
 - [Plant An App](https://www.plantanapp.com) - The Secret Weapon of Software Development
 - [Quick Base](https://quickbase.com) - The best way to manage data and automate processes, so you can accomplish more.
 - [Zoho Creator](https://www.zoho.com/creator) - Custom apps to run your business.
