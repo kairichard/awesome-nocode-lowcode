@@ -315,6 +315,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [OnOut](https://tools.onout.org/) - Build Blockchain DApps on your own domain in one-click.
 - [SpreadsheetWeb](https://www.spreadsheetweb.com) - A NoCode platform for Excel users
 - [Stacker](https://stacker.app) - Build web apps in your browser, without code.
+- [Suriya](https://suriya.ai) - AI-powered app builder for Thai SMEs. Create loyalty apps, booking systems, and customer management tools in 5 minutes without coding.
 - [Widgetic](https://widgetic.com) - A marketplace for website building blocks.
 - [Berrry](https://berrry.app) - Transform Twitter posts and Reddit content into functional web applications using AI.
 
