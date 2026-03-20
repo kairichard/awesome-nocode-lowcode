@@ -68,6 +68,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Activepieces](https://www.activepieces.com) - A no-code tool to automate your business.
 - [Clay](https://clay.run) - Build tools & workflows to supercharge your team
 - [IFTTT](https://ifttt.com) - Do more with the services you love.
+- [Iotellect](https://iotellect.com) - Low-code IoT platform for device integration, data collection, and real-time dashboards. Supports MQTT, OPC UA, Modbus, and 50+ industrial protocols.
 - [Make (formerly Integromat](https://www.make.com/) - The glue of the internet.
 - [Lil'bots](https://www.lilbots.io) - AI bot marketplace - build, deploy and share AI powered bots, with built in API access to top-tier AI services.
 - [Linx](https://linx.software) - Low-code Development for IT Pros
