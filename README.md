@@ -299,6 +299,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Voice
 
+- [AnveVoice](https://anvevoice.app) - No-code AI voice agent for websites — one-line JS embed, trains on your content, talks to visitors in 50+ languages.
 - [Vuix](https://vuix.io) - Design voice apps in minutes.
 
 ## VR
