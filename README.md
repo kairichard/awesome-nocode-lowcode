@@ -74,6 +74,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Linx](https://linx.software) - Low-code Development for IT Pros
 - [Microsoft Power Automate](https://flow.microsoft.com) - Previously known as Microsoft Flow, is a SaaS platform by Microsoft for optimizing and automating workflows and business processes.empowering Dynamics 365 line of Products. 
 - [n8n](https://n8n.io) - Free Self-hostable Automation Tool
+- [Rierino](https://rierino.com) - Developer-first low-code platform for building and orchestrating enterprise backend applications, microservices, and APIs with visual flow design and embedded AI. Free self-hosted Community Edition available.
 - [Nanonets Airtable Models](https://nanonets.com/airtable/) - Build a no-code AI image organizer with Airtable
 - [Oplim](https://oplim.com) - Custom Tasks on Your Website with Zero Code
 - [Parabola](https://parabola.io) - Drag-and-drop to automate your repetitive tasks.
