@@ -351,6 +351,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [ApexOracle](https://apex.oracle.com/en) - Build enterprise apps 20x faster with 100x less code.
 - [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software 
 - [Pineify](https://pineify.app) - Best TradingView Pine Script Code Generator
+- [SnapAPI](https://api-snap.com) - Multi-tool utility API with 13+ endpoints: QR codes, screenshots, HTML-to-PDF, image resize, hashing, UUID, base64, JWT decode, URL metadata, and more. Free tier with 100 calls/month.
 
 ---
 
