@@ -223,6 +223,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Construct](https://www.construct.net) - Game making software
 - [Yoyo Games](https://www.yoyogames.com/) - It has everything you need to take your idea from concept to finished game.
 - [GDevelop](https://gdevelop.io/) - Open source game making software
+- [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 
 ## Internal
 
