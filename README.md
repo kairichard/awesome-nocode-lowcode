@@ -253,6 +253,8 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Liner.ai](https://liner.ai/) - Train deep learning models on your computer without Code.
 - [Mazaal AI](https://mazaal.ai) - No-code AI workflow platform connected with most popular 200 apps that you use daily.
 
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
+
 ## Marketing
 
 - [Fomo](https://fomo.com) - Social Proof Marketing Platform
