@@ -67,6 +67,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [ActionDesk](https://actiondesk.io) - The spreadsheet that lets you gather and control all your data in one place.
 - [Activepieces](https://www.activepieces.com) - A no-code tool to automate your business.
 - [Appy Pie Automate](https://appypieautomate.ai) - No-code workflow automation platform with 1,000+ integrations to connect Gmail, Slack, Shopify, HubSpot, and more.
+- [BulkPublish](https://www.bulkpublish.com) - Social media API for publishing to 11 platforms with Zapier, n8n, Make.com, and IFTTT integrations. REST API with Python & Node.js SDKs. Free tier available.
 - [Clay](https://clay.run) - Build tools & workflows to supercharge your team
 - [IFTTT](https://ifttt.com) - Do more with the services you love.
 - [Iotellect](https://iotellect.com) - Low-code IoT platform for device integration, data collection, and real-time dashboards. Supports MQTT, OPC UA, Modbus, and 50+ industrial protocols.
