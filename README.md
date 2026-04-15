@@ -340,8 +340,9 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Jimdo](https://www.jimdo.com) - Your Website Builder‎
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website
 - [Memberspace](https://www.memberspace.com) - Turn your audience into paying members.
+- [NoCodeVista](https://nocodevista.com) - Build and launch websites faster with a modern no-code builder focused on simplicity and speed
 - [Sheet2Site](https://sheet2site.com) - Turn your 📗 Google Sheets into 🎨 professional websites
-- [Squarespace](squarespace.com) - All-in-one platform to build a beautiful online presence.
+- [Squarespace](https://squarespace.com) - All-in-one platform to build a beautiful online presence.
 - [Strikingly](https://www.strikingly.com) - Make a website in minutes
 - [Tilda](https://tilda.cc) - Create beautiful websites without any code.
 - [Udesly](https://www.udesly.com) - Use Webflow to create WordPress and Shopify Themes
@@ -354,7 +355,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Weld](https://www.weld.io) - Be creative without code – Interactive content tool
 - [Without Code](https://www.wocode.com) - Code Free Website Builder
 - [Wix](https://www.wix.com) - Free Website Builder
-
+  
 ## Uncategorized
 
 - [ApexOracle](https://apex.oracle.com/en) - Build enterprise apps 20x faster with 100x less code.
