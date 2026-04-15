@@ -187,6 +187,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Gumroad](https://gumroad.com) - Sell anything directly to anyone.
 - [Monto](https://monto.io) - Product Reviews for Webflow (and Foxy).
 - [Podia](https://podia.com) - Easily sell memberships, online courses & digital downloads.
+- [ShopSavvy](https://shopsavvy.com) - Price comparison across thousands of retailers with price alerts and deal discovery.
 - [Shopify](https://shopify.com) - Build your ecommerce store.
 - [Volusion](https://volusion.com) - Ecommerce Website Store & Shopping Cart Software
 
