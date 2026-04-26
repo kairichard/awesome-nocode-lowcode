@@ -352,6 +352,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Versoly](https://versoly.com/) - The Easiest Way to Build Your SaaS Website
 - [Webflow](https://webflow.com/) - Break the code barrier, Build better business websites, faster. Without coding.
 - [Webstudio](https://webstudio.is/) - An Open Source alternative to Webflow. Much faster. No platform lock-in.
+- [Webstudio Managed by France Nuage](https://france-nuage.fr/) - Managed Webstudio hosting (open-source visual website builder, Webflow alternative) on sovereign French infrastructure.
 - [Webnode](https://www.webnode.com) - Easy & Free Website Maker
 - [Weebly](https://www.weebly.com) - Build a Free Website or Online Store
 - [Weld](https://www.weld.io) - Be creative without code – Interactive content tool
