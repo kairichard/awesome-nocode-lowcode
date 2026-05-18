@@ -1,4 +1,3 @@
-.0
 # Awesome NoCode / LowCode
 A curated list of delightful NoCode / LowCode applications and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
