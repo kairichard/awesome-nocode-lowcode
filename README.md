@@ -233,6 +233,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Internal
 
+- [CollabPortals](https://www.collabportals.com) - Turn your Airtable base into a branded client portal with role-based permissions and custom views.
 - [Contractbook](https://contractbook.co) - Efficient Contract Management
 - [ILLA Cloud](https://www.illacloud.com/) - A low-code platform for developers to build internal tools in minutes.
 - [Jet Admin](https://www.jetadmin.io/) - Build Internal tools & Customer Portals with No-Code
