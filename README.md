@@ -244,6 +244,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Stream Language](https://bitspark.de/slang) - Taking the next step in programming
 - [Outcode](https://outcode.biz/) - Create data apps without code
 - [UI Bakery](https://uibakery.io) - Custom web applications at speed 🍩
+- [Oinone](https://github.com/oinone/oinone-pamirs) - AI-native, 100% metadata/model-driven low-code framework where AI and developers share one metadata model. Built for complex enterprise systems, self-hostable. Open source (Java+TS, AGPL-3.0).
 
 ## Landing Pages
 
