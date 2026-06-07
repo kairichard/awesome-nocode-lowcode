@@ -53,6 +53,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Agentic Apps
 - [Manifest](https://www.manifest.build/) - Build governed agentic apps with an AI powered workflow builder.
 - [MeterCall](https://metercall.ai) - Universal API gateway over 10M+ APIs with AI router across 25+ models. Type a sentence in plain English, get a working app. 727+ ready-made modules to fork. Free tier, usage-based pricing.
+- [Taskade Genesis](https://docs.taskade.com/genesis-living-system-builder/genesis/) - AI-powered no-code app builder documentation. Build full-stack applications from natural language with integrated automation, AI agents, and workflow execution. Includes workspace DNA architecture and examples.
 
 ## Analytics
 
