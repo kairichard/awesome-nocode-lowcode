@@ -355,6 +355,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website
 - [Memberspace](https://www.memberspace.com) - Turn your audience into paying members.
 - [NoCodeVista](https://nocodevista.com) - Build and launch websites faster with a modern no-code builder focused on simplicity and speed
+- [Playcode](https://playcode.io/ai-website-builder) - AI website and app builder with hosting, visual editing, and custom domains.
 - [Sheet2Site](https://sheet2site.com) - Turn your 📗 Google Sheets into 🎨 professional websites
 - [Silex](https://www.silex.me) - Open source visual website builder for static sites. Standard HTML/CSS output, publish to GitLab/FTP/Nextcloud, no platform lock-in (alternative to Webflow).
 - [Squarespace](https://squarespace.com) - All-in-one platform to build a beautiful online presence.
