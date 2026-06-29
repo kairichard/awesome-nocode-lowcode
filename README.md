@@ -100,6 +100,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [MindStudio](https://mindstudio.ai) - MindStudio lets you rapidly build, deploy, and operate AI Workers — automations, applications, agents. Anyone can build AI Workers rapidly (typically in under 30 minutes). Over 150k AI Workers are deployed across all types of use cases and organizations. AI Workers can be triggered from browser extensions, run automatically on a schedule, be used as components in Zapier, Make, or any other orchestration platform, or integrated into any application that can call an API.
 - [Data Fetcher](https://www.datafetcher.com) - Connect any API to Airtable without code. Import, sync, and transform data with automated scheduling.
 - [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
+- [Stack Architect](https://stackarchitect.xyz/) - Open-source automation resource hub providing plug-and-play Make.com blueprints for server-side marketing APIs and Shopify stack optimization.
 
 ## Business Apps
 
