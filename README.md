@@ -284,6 +284,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Mobile Apps
 
 - [Adalo](https://www.adalo.com/) - Turn Your Amazing App Concept Into Reality Without Coding!
+- [AppEasy](https://appeasy.studio) - Launch a branded PWA app for content creators in 5 minutes — vertical templates, offline & push notifications, 0% B2C fee.
 - [AppOnboard Studio](https://apponboard.com/) - Where app ideas come to life. No code required.
 - [Appspotr](https://appspotr.com) - Create epic apps without coding
 - [Appstylo](https://appstylo.com) - Mobile App builder maker
