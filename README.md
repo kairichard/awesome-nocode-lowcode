@@ -280,6 +280,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Creator Lane](https://creatorlanehq.com) - All-in-one creator toolkit with link-in-bio storefront, digital product checkout, payouts, and Instagram comment-to-DM automation in one app.
 - [Fomo](https://fomo.com) - Social Proof Marketing Platform
 - [FORTVISION](https://fortvision.com/) - Create interactive experiences that lead to higher conversions.
+- [GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 - [Hotjar](https://hotjar.com) - See how your visitors are really using your site.
 - [Hubspot](https://hubspot.com) - A full platform of marketing, sales, customer service, and CRM software.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
