@@ -146,6 +146,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Landbot](https://landbot.io) - Lead generation landing page as chatbot.
 - [Manychat](https://manychat.com) - Create a Messenger bot to engage your audience. No coding!
 - [rulai](https://www.rul.ai) - AI Chatbot to Deliver Scalable Self Service
+- [Runbear](https://runbear.io) - No-code AI teammate for Slack & Teams; answers from your knowledge bases and takes action across 2,000+ tools via MCP.
 - [Smooch](https://smooch.io) - Instantly deploy your bots wherever users are.
 
 ## Collaboration
