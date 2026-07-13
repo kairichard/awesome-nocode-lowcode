@@ -362,6 +362,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [appsmith_](https://www.appsmith.com/) - Frontend as a Service to build internal apps
 - [Bloggi](https://bloggi.co) - A simple blogging platform
 - [Bookmark](https://www.bookmark.com) - Create a Website with AI
+- [Encer](https://encer.me/en) - No-code interactive link-in-bio page builder for creators with polls, messages, giveaways, live updates, and privacy-aware analytics.
 - [France Nuage Webstudio](https://france-nuage.fr) - Managed Webstudio (open-source visual website builder, alternative to Webflow) hosted in France. Sovereign hosting, GDPR compliant.
 - [Grapedrop](https://grapedrop.com) - Free and custom websites and landing pages
 - [IM Creator](https://www.imcreator.com) - Free Website Builder
