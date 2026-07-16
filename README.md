@@ -333,6 +333,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [graphqleditor](https://graphqleditor.com/) - A Better Way to GraphQL
 - [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications
 - [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser — click any element, describe changes in plain English, and get real code edits. Designed for cross-functional teams.
+- [WZSoft](https://github.com/szwilsonchan/wzsoft) - Enterprise low-code platform with visual data views, drag-and-drop code designer (compiles to server-side JS via Nashorn), and workflow engine. AI-operable via REST APIs.
 
 ## Voice
 
