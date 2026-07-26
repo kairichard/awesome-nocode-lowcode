@@ -62,6 +62,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## AI-Assisted Development
 
 - [Throughstone](https://github.com/mherschberg/Throughstone) - Architecture-first scaffold and method for building maintainable software with AI coding agents.
+- [Explain My Build](https://explainmybuild.com) - Reads the real code of an app you built with AI and writes a plain-English end-user guide, a founder runbook, and a code-verified fix-list — from the code, not a screen recording.
 
 ## Analytics
 
