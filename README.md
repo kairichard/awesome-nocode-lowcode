@@ -289,6 +289,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 - [Hotjar](https://hotjar.com) - See how your visitors are really using your site.
 - [Hubspot](https://hubspot.com) - A full platform of marketing, sales, customer service, and CRM software.
+- [Klinky](https://klinky.io) - A/B testing link shortener: split one link between two destinations and send a controlled share of visitors to a new page or offer. No code to install; free tier available.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [Rewardful](https://www.getrewardful.com) - Instant Affiliate & Referral Programs for Stripe
 - [Screenzy](https://screenzy.io) - Screenshot beautifier
