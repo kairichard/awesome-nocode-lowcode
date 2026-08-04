@@ -60,6 +60,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Vibes DIY](https://vibes.diy/) - Open-source AI app builder: describe an app in plain English and get a live, shareable web app you can remix and collaborate on.
 
 ## AI-Assisted Development
+- [Pineify](https://pineify.app) - No-code visual builder and AI coding agent for creating TradingView indicators, strategies, and screeners in Pine Script v6.
 
 - [Throughstone](https://github.com/mherschberg/Throughstone) - Architecture-first scaffold and method for building maintainable software with AI coding agents.
 - [Explain My Build](https://explainmybuild.com) - Reads the real code of an app you built with AI and writes a plain-English end-user guide, a founder runbook, and a code-verified fix-list — from the code, not a screen recording.
@@ -399,7 +400,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [ApexOracle](https://apex.oracle.com/en) - Build enterprise apps 20x faster with 100x less code.
 - [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software 
-- [Pineify](https://pineify.app) - Best TradingView Pine Script Code Generator
 - [SnapAPI](https://api-snap.com) - Multi-tool utility API with 13+ endpoints: QR codes, screenshots, HTML-to-PDF, image resize, hashing, UUID, base64, JWT decode, URL metadata, and more. Free tier with 100 calls/month.
 
 ---
