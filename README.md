@@ -58,6 +58,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Taskade Genesis](https://docs.taskade.com/genesis-living-system-builder/genesis/) - AI-powered no-code app builder documentation. Build full-stack applications from natural language with integrated automation, AI agents, and workflow execution. Includes workspace DNA architecture and examples.
 - [VibeKit.bot](https://vibekit.bot) - Describe an app in chat and a persistent AI agent builds it, hosts it at its own domain, and keeps improving it with every message. Works from the iOS app or web; bring-your-own-key or free tier.
 - [Vibes DIY](https://vibes.diy/) - Open-source AI app builder: describe an app in plain English and get a live, shareable web app you can remix and collaborate on.
+- [Xenition](https://xenition.com) - One AI workspace with 23 editing surfaces: describe what you want in chat and get full-stack apps, docs, decks, spreadsheets, images, or research, all sharing the same memory and asset library. Free tier with 25,000 credits per month.
 
 ## AI-Assisted Development
 - [Pineify](https://pineify.app) - No-code visual builder and AI coding agent for creating TradingView indicators, strategies, and screeners in Pine Script v6.
