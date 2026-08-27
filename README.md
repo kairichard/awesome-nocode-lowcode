@@ -227,7 +227,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Forms
 
 - [ActiveCalculator](https://activecalculator.com) - Create custom calculators for your website with no-code builder.
-- [Convertigo](https://www.convertigo.com/) - Create Forms based applications with no coding.
+- [Convertigo](https://www.convertigo.com/) - Open-source enterprise low-code platform with AI-assisted development for governed forms and workflow applications.
 - [Feathery](https://feathery.io) - Powerful form builder for product teams
 - [FlexyForm](https://www.flexyform.com) - Contact Forms Backend as Service
 - [Formester](https://formester.com) - Form that blends with your brand theme
@@ -308,7 +308,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Appspotr](https://appspotr.com) - Create epic apps without coding
 - [Appstylo](https://appstylo.com) - Mobile App builder maker
 - [Bravo Studio](https://www.bravostudio.app/) - Where your designs become real native apps
-- [Convertigo](https://www.convertigo.com/) - Create Mobile Apps & PWAs for iOS & Android with no coding
+- [Convertigo](https://www.convertigo.com/) - Open-source enterprise low-code platform with AI-assisted development for web, mobile, PWA, and offline-capable applications.
 - [draftbit](https://draftbit.com/) - Create, customize, and launch mobile apps all from your browser. Source code included.
 - [miniAppMaker](https://miniAppMaker.com) - Make mobile apps using Airtable!
 - [Thunkable](https://thunkable.com) - The No-Code App Builder
@@ -355,7 +355,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Adalo](https://www.adalo.com) - Create an app without code.
 - [Bubble](https://bubble.io/) - Build production-ready web apps.
 - [Cloud Canal](https://www.cloudcanal.io) - Static Sites -> Web Apps
-- [Convertigo](https://www.convertigo.com/) - Create Web Applications with low code and no code
+- [Convertigo](https://www.convertigo.com/) - Open-source enterprise low-code platform with AI-assisted development for full-stack web applications, APIs, workflows, and integrations.
 - [Corvid](https://wix.com/corvid) - Build advanced web applications, hassle-free.
 - [InstaMaps](https://get-instamaps.com) - Turn a Google Sheet into a live map, store locator or delivery tracking app.
 - [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
