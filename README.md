@@ -234,6 +234,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Feathery](https://feathery.io) - Powerful form builder for product teams
 - [FlexyForm](https://www.flexyform.com) - Contact Forms Backend as Service
 - [Formester](https://formester.com) - Form that blends with your brand theme
+- [Formms](https://form.ms) - AI form builder for iPhone, Android, and the web.
 - [Google Forms](https://forms.google.com) - Free forms from Google, that connect directly to Google Sheets.
 - [HeyForm](https://heyform.net) - Create captivating online forms without coding knowledge
 - [InteractiveCalculator](https://www.interactivecalculator.com) - Make calculators with no code and add them on your site
