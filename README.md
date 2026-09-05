@@ -52,6 +52,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Blog Posts](#blog-posts)
 
 ## Agentic Apps
+- [BigPipe](https://bigpipe.agency) - Turns a marketing or growth agency's expertise into a self-running company: an AI builds the website, product, billing, and back office and runs them on autopilot, so you own a compounding business asset instead of billing hours.
 - [LLMGraph](https://llmgraph.ai) - No-code visual builder for LLM/AI workflows: turn your docs and models into RAG chatbots and AI agents, then deploy each to a REST API and an embeddable chat widget in one click.
 - [Manifest](https://www.manifest.build/) - Build governed agentic apps with an AI powered workflow builder.
 - [MeterCall](https://metercall.ai) - Universal API gateway over 10M+ APIs with AI router across 25+ models. Type a sentence in plain English, get a working app. 727+ ready-made modules to fork. Free tier, usage-based pricing.
