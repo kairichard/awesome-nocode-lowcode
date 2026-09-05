@@ -72,6 +72,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Analytics
 
 - [Google Analytics](https://analytics.google.com) - Free website analytics.
+- [Nightlamp](https://nightlamp.app) - Managed monitoring and real-engineer diagnostics for no-code and AI-built apps (Bubble, Lovable, Webflow, Softr, Replit): catches broken workflows, failed webhooks and outages, then explains the fix.
 - [PageGuard](https://pageguard.org) - Free website health scanner for SEO, accessibility (WCAG/ADA), performance, and best practices. No signup required.
 - [VisualSitemaps](https://visualsitemaps.com) - Autogenerate Visual Sitemaps & Screenshots in Seconds
 - [Simple Analytics](https://simpleanalytics.io) - Simple, clean, and friendly analytics.
