@@ -98,6 +98,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [n8n](https://n8n.io) - Free Self-hostable Automation Tool
 - [Rierino](https://rierino.com) - Developer-first low-code platform for building and orchestrating enterprise backend applications, microservices, and APIs with visual flow design and embedded AI. Free self-hosted Community Edition available.
 - [Nanonets Airtable Models](https://nanonets.com/airtable/) - Build a no-code AI image organizer with Airtable
+- [OpenQR](https://openqr.uk) - Create QR codes in your automations via a free REST API and MCP server, with Zapier, n8n and Make integrations. Dynamic codes stay editable after printing.
 - [Oplim](https://oplim.com) - Custom Tasks on Your Website with Zero Code
 - [Orion](https://github.com/GoPlasmatic/Orion) - Self-hostable declarative services runtime with a no-code console; build and operate REST/Kafka services as JSON workflows on a single binary.
 - [Parabola](https://parabola.io) - Drag-and-drop to automate your repetitive tasks.
