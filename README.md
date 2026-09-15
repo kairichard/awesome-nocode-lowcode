@@ -188,6 +188,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Airtable](https://airtable.com) - Database / Spreadsheet mashup
 - [APITable](https://github.com/apitable/apitable) - Open source API-oriented low-code database and Airtable alternative, self-hostable
 - [Baserow](https://baserow.io/) - Open source no-code database and Airtable alternative
+- [Busabase](https://busabase.com) - Open source self-hosted workspace and database for AI agents (Claude Code, Codex, or any MCP client): turns agent output into data, docs, skills and small apps you can reuse, with every change carrying its own diff, author and history
 - [NocoDB](https://github.com/nocodb/nocodb) - Free & Open Source Airtable Alternative - turns any SQL databases into smart spreadsheet.
 - [Forest Admin](https://www.forestadmin.com/) - The admin panel framework
 - [Go](https://www.123Go.io) - Low-Code for Enterprise Databases
