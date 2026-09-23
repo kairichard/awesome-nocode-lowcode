@@ -384,6 +384,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Cactal](https://cactal.ai) - The website platform for AI agents.
 - [DreamWidget](https://dreamwidget.com) - No-code logo showcase and video wall widgets for any website: designed in a visual editor per screen size, embedded with one iframe, unlimited views on every plan.
 - [Encer](https://encer.me/en) - No-code interactive link-in-bio page builder for creators with polls, messages, giveaways, live updates, and privacy-aware analytics.
+- [Figment.so](https://figment.so/) - Publish Figma designs as websites with a Figma plugin and hosted subdomains.
 - [France Nuage Webstudio](https://france-nuage.fr) - Managed Webstudio (open-source visual website builder, alternative to Webflow) hosted in France. Sovereign hosting, GDPR compliant.
 - [Grapedrop](https://grapedrop.com) - Free and custom websites and landing pages
 - [IM Creator](https://www.imcreator.com) - Free Website Builder
