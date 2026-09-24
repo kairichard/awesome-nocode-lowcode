@@ -370,6 +370,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Corvid](https://wix.com/corvid) - Build advanced web applications, hassle-free.
 - [InstaMaps](https://get-instamaps.com) - Turn a Google Sheet into a live map, store locator or delivery tracking app.
 - [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
+- [Mythex](https://mythex.ai) - Describe a web app in chat and it is built, run with a live preview, given a Postgres database, and published to a public URL; code and terminal stay accessible, and projects export to git.
 - [OnOut](https://tools.onout.org/) - Build Blockchain DApps on your own domain in one-click.
 - [SpreadsheetWeb](https://www.spreadsheetweb.com) - A NoCode platform for Excel users
 - [Stacker](https://stacker.app) - Build web apps in your browser, without code.
