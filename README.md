@@ -344,6 +344,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 - [Remove Audio](https://remove-audio.com) - Free browser-based tool to remove audio from any video. Powered by WebAssembly + FFmpeg.wasm — no uploads, no signup, no watermarks.
+- [shortshort](https://www.shortshort.io) - Turns one long video (up to 3 hours) into vertical 9:16 shorts of 15-90 seconds: cuts on complete sentences from the transcript, reframes by tracking the face, and times captions word by word. The manual editor and MP4 export work without an account; 60 free credits at sign-up (1 credit = 1 minute of source video), no card.
 ## Visual Programming
 
 - [Darklang](https://darklang.com/) - Build an entire backend in just hours.
