@@ -280,6 +280,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Landing Pages
 
 - [EarlyBird](https://earlybird.im) - Create landing pages to validate early-stage business ideas.
+- [Gatedleads](https://gatedleads.com) - Build a lead magnet page in minutes: visitors read part of your guide, then enter their email to unlock the rest. Leads export to CSV or forward through Zapier.
 - [Instapage](https://instapage.com) - Landing pages, up to 6x more conversions.
 - [Launchaco](https://launchaco.com) - Simple landing pages for your startup
 - [Leadpages](https://leadpages.net) - Landing page builder & lead gen software.
