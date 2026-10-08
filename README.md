@@ -106,7 +106,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Parabola](https://parabola.io) - Drag-and-drop to automate your repetitive tasks.
 - [Phantombuster](https://phantombuster.com) - A marketplace of simple to use no-code APIs
 - [pipedream](https://pipedream.com/) - The integration platform built for developers
-- [PostWire](https://postwire.io) - Turns one idea into a separate native post for TikTok, Instagram, YouTube, LinkedIn, Bluesky and more, then publishes or schedules it; works from n8n, Make, Zapier, a REST API or an MCP server. Free plan.
+- [PostWire](https://postwire.io) - Turns one idea into a separate native post for TikTok, Instagram, YouTube, LinkedIn, Bluesky and more, then publishes or schedules it; works from its verified n8n node, a REST API, an MCP server or Claude and ChatGPT. Free plan.
 - [Simple scraper](https://simplescraper.io) - The web is your API
 - [Autocode](https://autocode.com/) -  Turn ideas into software with AI
 - [Tiller Money](https://www.tillerhq.com) - Your financial life in a spreadsheet, automatically updated each day.
