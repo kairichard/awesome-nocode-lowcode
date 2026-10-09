@@ -179,7 +179,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Data & Scraping
 
 - [APIFY](https://apify.com/) - Extract data from any website
-- [Datacircle](https://datacircle.dev/) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Every morning, you get the flat file of your data plus everyone else's.
+- [Datacircle](https://datacircle.dev/) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Free: 10M+ U.S. B2B leads, as a flat file. Download it at datacircle.dev.
 - [DataFlowMapper](https://dataflowmapper.com/) - Data migration and conversion for onboarding
 - [SmartXML](https://redata.dev/smartxml/) - An application for parsing XML of any complexity with support SQLite and PostgreSQL
 - [flatfile](https://flatfile.io/) - The elegant import button for your web app
