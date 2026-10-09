@@ -186,6 +186,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [flatfile](https://flatfile.io/) - The elegant import button for your web app
 - [Hunter](https://hunter.io/?via=joe) - Find email addresses in seconds.
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds
+- [Website Email Extractor](https://apify.com/tidytools/website-contact-extractor) - Collect emails, phone numbers and social links from company websites or Google Maps results without code. Pay per use ($2 per 1,000 sites); sites with nothing found are free.
 - [WeTransform](https://www.wetransform.com) - Embeddable AI file importer for B2B SaaS. Customers upload CSV, Excel, PDF, XML or JSON, the AI maps columns and validates, your system receives clean data through an API.
 
 
