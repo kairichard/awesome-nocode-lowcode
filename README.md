@@ -387,6 +387,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Websites
 
+- [8B AI Website Builder](https://8b.com/mcp/) - Builds an animated one-page website from a chat in Claude, ChatGPT, Cursor or other AI agents; preview link, edits in plain words, one HTML file.
 - [appsmith_](https://www.appsmith.com/) - Frontend as a Service to build internal apps
 - [Bloggi](https://bloggi.co) - A simple blogging platform
 - [Bookmark](https://www.bookmark.com) - Create a Website with AI
