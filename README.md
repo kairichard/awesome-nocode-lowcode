@@ -264,6 +264,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Construct](https://www.construct.net) - Game making software
 - [Yoyo Games](https://www.yoyogames.com/) - It has everything you need to take your idea from concept to finished game.
 - [GDevelop](https://gdevelop.io/) - Open source game making software
+- [OrigoZero](https://origozero.ai) - Describe a 3D game in chat and an AI agent builds it in the Zero engine. The published game plays in a browser tab from a link. Free plan with 200 credits a month.
 - [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 - [VNovels](https://vnovels.com) - A browser-based visual novel maker and platform: build branching, choice-based stories in a visual graph and scene editor with an AI story assistant, generate art, music and SFX with AI, and publish playable visual novels. No coding required.
 
