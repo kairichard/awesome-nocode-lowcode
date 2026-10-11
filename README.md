@@ -85,6 +85,8 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [ActionDesk](https://actiondesk.io) - The spreadsheet that lets you gather and control all your data in one place.
 - [Activepieces](https://www.activepieces.com) - A no-code tool to automate your business.
 - [Appy Pie Automate](https://appypieautomate.ai) - No-code workflow automation platform with 1,000+ integrations to connect Gmail, Slack, Shopify, HubSpot, and more.
+- [Blueprint Runtime](https://github.com/intikhab49/blueprint-runtime) - Open-source CLI to test Make.com (Integromat) scenarios offline: replays real Make runs and flags broken mappings before deploy.
+- [BriefGate](https://briefgate.dev) - Client intake: collects files, text, choices and credentials from clients via a no-account portal with automatic reminders. REST and MCP APIs let AI agents request client input directly, with an n8n community node for no-code workflows.
 - [BulkPublish](https://www.bulkpublish.com) - Social media API for publishing to 15 platforms with Zapier, n8n, Make.com, and IFTTT integrations. REST API with Python & Node.js SDKs. Free tier available.
 - [CallURL](https://callurl.com) - Create a free AI phone line for any flyer, room, product, assignment, event, form, or workflow. Answers every call and shares by link or QR.
 - [Clay](https://clay.run) - Build tools & workflows to supercharge your team
@@ -106,10 +108,12 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Parabola](https://parabola.io) - Drag-and-drop to automate your repetitive tasks.
 - [Phantombuster](https://phantombuster.com) - A marketplace of simple to use no-code APIs
 - [pipedream](https://pipedream.com/) - The integration platform built for developers
+- [PostWire](https://postwire.io) - Turns one idea into a separate native post for TikTok, Instagram, YouTube, LinkedIn, Bluesky and more, then publishes or schedules it; works from its verified n8n node, a REST API, an MCP server or Claude and ChatGPT. Free plan.
 - [Simple scraper](https://simplescraper.io) - The web is your API
 - [Autocode](https://autocode.com/) -  Turn ideas into software with AI
 - [Tiller Money](https://www.tillerhq.com) - Your financial life in a spreadsheet, automatically updated each day.
 - [Tray](https://tray.io) - Advanced integration platform for connecting up the tools you use every day.
+- [TV-Hub](https://www.tv-hub.org/) - Automate crypto trades from TradingView alerts without code or a server.
 - [Upload-Post](https://www.upload-post.com) - Social media publishing API for posting and scheduling to TikTok, Instagram, YouTube, LinkedIn, X and more, with Zapier, Make and n8n integrations and an MCP server. Free plan available.
 - [Formstack](https://www.webmerge.me/) - Document automation software
 - [Zapier](https://zapier.com) - Automate tasks by integrating your favorite apps.
@@ -179,6 +183,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Data & Scraping
 
 - [APIFY](https://apify.com/) - Extract data from any website
+- [Datacircle](https://datacircle.dev/) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Every morning, you get the flat file of your data plus everyone else's.
 - [DataFlowMapper](https://dataflowmapper.com/) - Data migration and conversion for onboarding
 - [SmartXML](https://redata.dev/smartxml/) - An application for parsing XML of any complexity with support SQLite and PostgreSQL
 - [flatfile](https://flatfile.io/) - The elegant import button for your web app
@@ -262,6 +267,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Construct](https://www.construct.net) - Game making software
 - [Yoyo Games](https://www.yoyogames.com/) - It has everything you need to take your idea from concept to finished game.
 - [GDevelop](https://gdevelop.io/) - Open source game making software
+- [OrigoZero](https://origozero.ai) - Describe a 3D game in chat and an AI agent builds it in the Zero engine. The published game plays in a browser tab from a link. Free plan with 200 credits a month.
 - [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 - [VNovels](https://vnovels.com) - A browser-based visual novel maker and platform: build branching, choice-based stories in a visual graph and scene editor with an AI story assistant, generate art, music and SFX with AI, and publish playable visual novels. No coding required.
 
@@ -378,6 +384,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
 - [Mythex](https://mythex.ai) - Describe a web app in chat and it is built, run with a live preview, given a Postgres database, and published to a public URL; code and terminal stay accessible, and projects export to git.
 - [OnOut](https://tools.onout.org/) - Build Blockchain DApps on your own domain in one-click.
+- [PHPRunner](https://xlinesoft.com/phprunner/index.htm) - Commercial low-code builder for database-driven PHP web applications with visual design, authentication, reports, and self-hosted deployment.
 - [SpreadsheetWeb](https://www.spreadsheetweb.com) - A NoCode platform for Excel users
 - [Stacker](https://stacker.app) - Build web apps in your browser, without code.
 - [Widgetic](https://widgetic.com) - A marketplace for website building blocks.
@@ -385,6 +392,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Websites
 
+- [8B AI Website Builder](https://8b.com/mcp/) - Builds an animated one-page website from a chat in Claude, ChatGPT, Cursor or other AI agents; preview link, edits in plain words, one HTML file.
 - [appsmith_](https://www.appsmith.com/) - Frontend as a Service to build internal apps
 - [Bloggi](https://bloggi.co) - A simple blogging platform
 - [Bookmark](https://www.bookmark.com) - Create a Website with AI
