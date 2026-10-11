@@ -1,0 +1,54 @@
+name: Auto-merge list entries
+
+on:
+  workflow_run:
+    workflows: [Validate Urls]
+    types: [completed]
+  # Also handles the existing backlog and first-time contributors whose legacy
+  # PR workflow is waiting for approval. No pull_request_target policy needed.
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Check open PRs without changing or merging them
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: auto-merge-list-entries
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    if: github.repository == 'kairichard/awesome-nocode-lowcode' && github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+      checks: write
+      actions: read
+      statuses: read
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: master
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Test merge policy
+        run: python3 -m unittest discover -s .github/scripts -v
+      - name: Check entries and merge eligible PRs
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DRY_RUN: ${{ inputs.dry_run || false }}
+        run: |
+          if [ "$DRY_RUN" = true ]; then
+            python3 .github/scripts/auto_merge.py
+          else
+            python3 .github/scripts/auto_merge.py --merge
+          fi

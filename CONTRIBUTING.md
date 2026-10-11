@@ -10,3 +10,7 @@ To submit an application to this list, please do the following:
 Failure to comply to these contributing guidelines will result in your pull request being rejected.
 
 Thank you for your suggestions!
+
+Small README-only additions and description updates may be merged automatically
+after formatting, duplicate, placement, and affected-link checks pass. See the
+[automatic merging policy](.github/AUTO_MERGE.md) for the limits and review process.
