@@ -407,6 +407,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website
 - [Memberspace](https://www.memberspace.com) - Turn your audience into paying members.
 - [Naratake](https://naratake.com) - Website builder for local businesses — ordering, bookings and a back office on the published site, plus full source-code export.
+- [Newmade](https://newmade.page/) - A Notion-powered website builder with AI-assisted design, content sync, and custom domains.
 - [NoCodeVista](https://nocodevista.com) - Build and launch websites faster with a modern no-code builder focused on simplicity and speed
 - [Playcode](https://playcode.io/ai-website-builder) - AI website and app builder with hosting, visual editing, and custom domains.
 - [Sheet2Site](https://sheet2site.com) - Turn your 📗 Google Sheets into 🎨 professional websites
