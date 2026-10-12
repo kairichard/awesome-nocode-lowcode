@@ -309,9 +309,11 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Fomo](https://fomo.com) - Social Proof Marketing Platform
 - [FORTVISION](https://fortvision.com/) - Create interactive experiences that lead to higher conversions.
 - [GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
+- [HeyReagent](https://heyreagent.com) - AI agent that runs your LinkedIn: it answers the inbox in your voice, follows up, and finds who to talk to. Includes a hosted MCP server for your own LinkedIn account: read your inbox, send messages and invitations, search people, and work with posts. Free plan available. Not affiliated with LinkedIn.
 - [Hotjar](https://hotjar.com) - See how your visitors are really using your site.
 - [Hubspot](https://hubspot.com) - A full platform of marketing, sales, customer service, and CRM software.
 - [Klinky](https://klinky.io) - A/B testing link shortener: split one link between two destinations and send a controlled share of visitors to a new page or offer. No code to install; free tier available.
+- [LinkedNav](https://www.linkednav.com) - Detects LinkedIn buying signals and sends personalized outreach you approve. Its hosted MCP server lets an AI assistant run LinkedIn outreach in your own LinkedNav account: find leads, launch campaigns, send, and reply. Free 7-day trial. Not affiliated with LinkedIn.
 - [LogNorm](https://lognorm.com) - SEO and GEO growth backlog worked by AI agents (Claude Code, Codex, Cursor) via MCP: site audits, researched posts, fixes verified with Search Console. Free plan available.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [Rewardful](https://www.getrewardful.com) - Instant Affiliate & Referral Programs for Stripe
