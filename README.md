@@ -188,6 +188,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [SmartXML](https://redata.dev/smartxml/) - An application for parsing XML of any complexity with support SQLite and PostgreSQL
 - [flatfile](https://flatfile.io/) - The elegant import button for your web app
 - [Hunter](https://hunter.io/?via=joe) - Find email addresses in seconds.
+- [looot](https://looot.ai) - One API key and prepaid balance for about 2,500 data endpoints: work email, phone, company enrichment, Google search results, web pages. Connects to AI agents over MCP.
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds
 - [WeTransform](https://www.wetransform.com) - Embeddable AI file importer for B2B SaaS. Customers upload CSV, Excel, PDF, XML or JSON, the AI maps columns and validates, your system receives clean data through an API.
 
