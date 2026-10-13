@@ -414,6 +414,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Newmade](https://newmade.page/) - A Notion-powered website builder with AI-assisted design, content sync, and custom domains.
 - [NoCodeVista](https://nocodevista.com) - Build and launch websites faster with a modern no-code builder focused on simplicity and speed
 - [Playcode](https://playcode.io/ai-website-builder) - AI website and app builder with hosting, visual editing, and custom domains.
+- [Prooflive.ai](https://prooflive.ai) - Hosts business websites built by your own AI coding agent (Claude Code, Codex, Gemini CLI), with checks against the generic AI look, UK hosting, email and forms.
 - [Sheet2Site](https://sheet2site.com) - Turn your 📗 Google Sheets into 🎨 professional websites
 - [Silex](https://www.silex.me) - Open source visual website builder for static sites. Standard HTML/CSS output, publish to GitLab/FTP/Nextcloud, no platform lock-in (alternative to Webflow).
 - [Squarespace](https://squarespace.com) - All-in-one platform to build a beautiful online presence.
