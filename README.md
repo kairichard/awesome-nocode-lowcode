@@ -407,6 +407,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [France Nuage Webstudio](https://france-nuage.fr) - Managed Webstudio (open-source visual website builder, alternative to Webflow) hosted in France. Sovereign hosting, GDPR compliant.
 - [Grapedrop](https://grapedrop.com) - Free and custom websites and landing pages
 - [HtmlDrag](https://htmldrag.com/) - Visual editor for existing and AI-generated HTML pages, with drag-and-drop editing, element-level AI refinement, and HTML export for your own hosting.
+- [Icybiz](https://icybiz.com/) - Free hosted visual website builder for small-business and personal sites. Create and publish without coding, a credit card, or a subscription.
 - [IM Creator](https://www.imcreator.com) - Free Website Builder
 - [Jimdo](https://www.jimdo.com) - Your Website Builder‎
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website
