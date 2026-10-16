@@ -84,6 +84,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [ActionDesk](https://actiondesk.io) - The spreadsheet that lets you gather and control all your data in one place.
 - [Activepieces](https://www.activepieces.com) - A no-code tool to automate your business.
+- [Aident Loadout](https://aident.ai) - Connect your apps once and let AI agents such as Claude Code, Codex, Cursor and ChatGPT use them through one MCP setup, with 400+ expert-built Skills for research, outreach, content and operations. Credentials stay in a vault, every action is logged for audit, and you can start free on pay-as-you-go.
 - [Appy Pie Automate](https://appypieautomate.ai) - No-code workflow automation platform with 1,000+ integrations to connect Gmail, Slack, Shopify, HubSpot, and more.
 - [Blueprint Runtime](https://github.com/intikhab49/blueprint-runtime) - Open-source CLI to test Make.com (Integromat) scenarios offline: replays real Make runs and flags broken mappings before deploy.
 - [BriefGate](https://briefgate.dev) - Client intake: collects files, text, choices and credentials from clients via a no-account portal with automatic reminders. REST and MCP APIs let AI agents request client input directly, with an n8n community node for no-code workflows.
