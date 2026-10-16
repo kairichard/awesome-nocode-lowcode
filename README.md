@@ -191,6 +191,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [flatfile](https://flatfile.io/) - The elegant import button for your web app
 - [Hunter](https://hunter.io/?via=joe) - Find email addresses in seconds.
 - [looot](https://looot.ai) - One API key and prepaid balance for about 2,500 data endpoints: work email, phone, company enrichment, Google search results, web pages. Connects to AI agents over MCP.
+- [Multi Job Board Scraper](https://apify.com/flash_scraper/multi-jobboard-scraper) - Fill in a job title and a city and get one table of job postings from LinkedIn, Indeed, Glassdoor and The Muse, with a role found on several boards merged into one row. Exports CSV, JSON or Excel. Paid per result on Apify.
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds
 - [Website Email Extractor](https://apify.com/tidytools/website-contact-extractor) - Collect emails, phone numbers and social links from company websites or Google Maps results without code. Pay per use ($2 per 1,000 sites); sites with nothing found are free.
 - [WeTransform](https://www.wetransform.com) - Embeddable AI file importer for B2B SaaS. Customers upload CSV, Excel, PDF, XML or JSON, the AI maps columns and validates, your system receives clean data through an API.
