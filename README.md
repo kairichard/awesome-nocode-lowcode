@@ -71,6 +71,8 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [MergeFix](https://mergefix.com) - Audits an AI-built app for SEO, performance, accessibility, and security issues and opens the fixes as a real GitHub pull request. Also has a "Migrate & Own" flow to move an app built on Bolt/Lovable/Replit into a repo you fully own.
 
+- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes. For developers who want a quick agent loop and for operators who need typed task, validation, merge, and release-readiness boundaries.
+
 ## Analytics
 
 - [Google Analytics](https://analytics.google.com) - Free website analytics.
