@@ -314,6 +314,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [AltoRank](https://altorank.co) - Open-source SEO content software: checks whether search engines and AI assistants can read your site, researches what your buyers search for, and drafts articles in your site's voice with sources attached. Self-host it free or use the hosted version.
 - [AuditWidget](https://auditwidget.app/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_nocode_lowcode) - Embeddable SEO audit widget for marketing sites. Drop a single script tag — visitors run a 12-point analysis and share their email to unlock the full report.
+- [CodeTrendy](https://codetrendy.com) - Hand-screened discovery directory where makers list a newly launched startup, SaaS tool or no-code product and get a public profile page. Free listing after review (needs an account and a CodeTrendy badge on your homepage); optional paid listing from $19.
 - [Creator Lane](https://creatorlanehq.com) - All-in-one creator toolkit with link-in-bio storefront, digital product checkout, payouts, and Instagram comment-to-DM automation in one app.
 - [Fomo](https://fomo.com) - Social Proof Marketing Platform
 - [FORTVISION](https://fortvision.com/) - Create interactive experiences that lead to higher conversions.
