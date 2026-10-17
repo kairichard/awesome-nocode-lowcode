@@ -325,6 +325,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Klinky](https://klinky.io) - A/B testing link shortener: split one link between two destinations and send a controlled share of visitors to a new page or offer. No code to install; free tier available.
 - [LinkedNav](https://www.linkednav.com) - Detects LinkedIn buying signals and sends personalized outreach you approve. Its hosted MCP server lets an AI assistant run LinkedIn outreach in your own LinkedNav account: find leads, launch campaigns, send, and reply. Free 7-day trial. Not affiliated with LinkedIn.
 - [LogNorm](https://lognorm.com) - SEO and GEO growth backlog worked by AI agents (Claude Code, Codex, Cursor) via MCP: site audits, researched posts, fixes verified with Search Console. Free plan available.
+- [MEDIAPRONET](https://mediapronet.com) - Launch and discovery directory where makers list a newly launched startup, SaaS tool or no-code product and get a public profile page. Free listing after review (needs an account and a MEDIAPRONET badge on your homepage); optional paid listing from $19.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [Rewardful](https://www.getrewardful.com) - Instant Affiliate & Referral Programs for Stripe
 - [Screenzy](https://screenzy.io) - Screenshot beautifier
