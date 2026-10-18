@@ -416,6 +416,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Figment.so](https://figment.so/) - Publish Figma designs as websites with a Figma plugin and hosted subdomains.
 - [France Nuage Webstudio](https://france-nuage.fr) - Managed Webstudio (open-source visual website builder, alternative to Webflow) hosted in France. Sovereign hosting, GDPR compliant.
 - [Grapedrop](https://grapedrop.com) - Free and custom websites and landing pages
+- [Helmpages](https://helmpages.com/) - Business websites for independent professionals, built and kept up to date by sending a message.
 - [HtmlDrag](https://htmldrag.com/) - Visual editor for existing and AI-generated HTML pages, with drag-and-drop editing, element-level AI refinement, and HTML export for your own hosting.
 - [Icybiz](https://icybiz.com/) - Free hosted visual website builder for small-business and personal sites. Create and publish without coding, a credit card, or a subscription.
 - [IM Creator](https://www.imcreator.com) - Free Website Builder
