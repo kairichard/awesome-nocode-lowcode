@@ -396,6 +396,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Convertigo](https://www.convertigo.com/) - Open-source enterprise low-code platform with AI-assisted development for full-stack web applications, APIs, workflows, and integrations.
 - [Corvid](https://wix.com/corvid) - Build advanced web applications, hassle-free.
 - [InstaMaps](https://get-instamaps.com) - Turn a Google Sheet into a live map, store locator or delivery tracking app.
+- [Layerwise](https://layerwise.app) - Build full-stack web apps with AI in a desktop workspace, with local previews, a built-in database, authentication, and publishing.
 - [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
 - [Mythex](https://mythex.ai) - Describe a web app in chat and it is built, run with a live preview, given a Postgres database, and published to a public URL; code and terminal stay accessible, and projects export to git.
 - [OnOut](https://tools.onout.org/) - Build Blockchain DApps on your own domain in one-click.
