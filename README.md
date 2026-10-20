@@ -189,7 +189,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [APIFY](https://apify.com/) - Extract data from any website
 - [CurlShot](https://curlshot.com) - Screenshot API and free online tool that turns any URL, HTML or Markdown into PNG, JPEG, WebP, PDF or scrolling video, with ad and cookie-banner blocking. Free plan with 100 screenshots/month; remote MCP server for AI agents.
-- [Datacircle](https://datacircle.dev/) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Every morning, you get the flat file of your data plus everyone else's.
+- [Datacircle](https://datacircle.dev/) - Datacircle lists all the GTM APIs. Buyers compare plans on the sheet. Each plan's page links to the provider's site and API docs.
 - [DataFlowMapper](https://dataflowmapper.com/) - Data migration and conversion for onboarding
 - [SmartXML](https://redata.dev/smartxml/) - An application for parsing XML of any complexity with support SQLite and PostgreSQL
 - [flatfile](https://flatfile.io/) - The elegant import button for your web app
