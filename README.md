@@ -366,6 +366,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Loom](https://loom.com) - Seamless screen, mic, and camera recording for Chrome
 - [OpenCreator](https://opencreator.ai) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
+- [pitchboom.io](https://pitchboom.io) - AI motion-design studio for video ads: paste a product URL or a short brief, edit and approve the storyboard, and get voiced 1080p MP4s in 16:9, 9:16, 1:1, 4:5 and 3:4, each format recomposed rather than cropped. Paid plans from €30/month.
 - [ReelWorkshop](https://reelworkshop.com) - Browser compilation maker: import your own clips, arrange and trim, preview free, and export vertical 9:16 H.264. Finished export is on Starter.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
