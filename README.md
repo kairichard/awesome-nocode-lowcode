@@ -165,6 +165,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Botsify](https://botsify.com) - Create your own automated chatbots online.
 - [Chatamo](https://chatamo.com) - Create intelligent voice and chat bots for marketing, sales and support in minutes.
 - [Chatfuel](https://chatfuel.com) - Create chatbots to engage with your audience on messengers
+- [Deacon](https://heydeacon.com) - AI support chat for your website that answers from your own pages and docs.
 - [Flow XO](https://flowxo.com) - Create a chatbot with zero coding skills required
 - [Hellomatik](https://hellomatik.com) - AI agents that prepare a company's decisions from one blueprint of its data, procedures and formulas, for an approver to accept, amend or reject.
 - [Instabot](https://instabot.io) - A Conversion Chatbot for Your Website
