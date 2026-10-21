@@ -361,6 +361,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Octoparse](https://octoparse.com) - Easy Web Scraping for Anyone
 - [Parsehub](https://parsehub.com) - Free web scraping.
+- [Smart Scraper](https://nrspark.com/products/smartscraper/) - Chrome extension that auto-detects tables and lists on any web page, follows next/load-more/infinite-scroll pagination, and exports CSV or JSON for free. Pro adds data cleaning, AI column naming, and Excel/Google Sheets export.
 
 ## Video
 
