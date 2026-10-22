@@ -343,6 +343,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Octoparse](https://octoparse.com) - Easy Web Scraping for Anyone
 - [Parsehub](https://parsehub.com) - Free web scraping.
+- [LucidRows](https://lucidrows.com/?utm_source=awesome-nocode-lowcode&utm_medium=outreach&utm_campaign=awesome-nocode-lowcode-github-list) - Free Chrome extension that turns lists and tables on any web page into CSV or JSON. Point and click, follows Next, Load More and infinite scroll, no account, data stays on your computer.
 
 ## Video
 
