@@ -216,6 +216,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Motor Admin](https://www.getmotoradmin.com/) - Open-source, self-hosted Admin Panel and Business Intelligence software.
 - [PostGraphile](https://www.graphile.org/) - Extensible high-performance automatic GraphQL API for PostgreSQL
 - [ResponseVault](https://ResponseVault.com) - Use a grid-based form builder in your custom app.
+- [Rowflare](https://rowflare.com) - Open source Airtable alternative with views, formulas, automations and an MCP server; self-hosts on your own Cloudflare account.
 - [Tachybase](https://github.com/tachybase/tachybase) - Free & Open Source Airtable Alternative  - turns any SQL databases into web app.
 - [Tadabase](https://tadabase.io) - No Code Database Web App Builder
 - [Trevor](https://www.trevor.io) - Query your live data, without code.
