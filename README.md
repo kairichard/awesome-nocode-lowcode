@@ -337,6 +337,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [TinySnap](https://tinysnap.app) - A browser extension to capture screen and beautify screenshots
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose marketing utilities (no signup, browser-based): OG image generator, SEO meta tag generator, AI robots.txt generator, AI content disclosure generator (EU AI Act compliant), favicon generator, color palette generator, and a domain name generator. Open source.
 - [Autoposting](https://autoposting.ai) - AI social media manager that writes, clips, and schedules posts to X, LinkedIn, Instagram, Threads and YouTube
+- [Zyff](https://www.zyff.app/widget-builder) - No-code website widgets: Google reviews, Instagram feed, WhatsApp chat, FAQ, countdown timers and popups, styled in a live editor and embedded with one snippet. Free plan available.
 
 ## Mobile Apps
 
