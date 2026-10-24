@@ -420,6 +420,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Bloggi](https://bloggi.co) - A simple blogging platform
 - [Bookmark](https://www.bookmark.com) - Create a Website with AI
 - [Cactal](https://cactal.ai) - The website platform for AI agents.
+- [deed.page](https://deed.page) - Static hosting for AI agents: an agent publishes HTML or a folder with one HTTP PUT or through a remote MCP server and gets a live https URL. Free plan with no signup.
 - [DreamWidget](https://dreamwidget.com) - No-code logo showcase and video wall widgets for any website: designed in a visual editor per screen size, embedded with one iframe, unlimited views on every plan.
 - [Encer](https://encer.me/en) - No-code interactive link-in-bio page builder for creators with polls, messages, giveaways, live updates, and privacy-aware analytics.
 - [Figment.so](https://figment.so/) - Publish Figma designs as websites with a Figma plugin and hosted subdomains.
