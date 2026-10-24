@@ -225,6 +225,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Design
 
+- [APPLORE](https://applore.app/ai-app-icon-generator) - Make app icons without design skills: AI icon generator, export every iOS/Android size, App Store screenshots.
 - [Figma](https://figma.com) - The first interface design tool with real-time collaboration
 - [Penpot](https://penpot.app) - Open source, web-based interface design application.
 - [STUDIO](https://studio.design/) - Design to live website in one click.
