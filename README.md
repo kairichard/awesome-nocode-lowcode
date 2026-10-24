@@ -375,6 +375,9 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI tool: two photos → 13s studio dance video (Paid from $8.90). Not affiliated with Stromae/TikTok; original electronic audio, not the song.
 - [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI tool: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA.
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI tool: two photos → 15s 480p 16:9 duo dance video with reference soundtrack (Paid from $7.99). Unofficial.
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI tool: one photo → ~5s 480p 9:16 AI dance video (Quince Classic or Party Groove) (Paid from $7.99).
 - [ReelWorkshop](https://reelworkshop.com) - Browser compilation maker: import your own clips, arrange and trim, preview free, and export vertical 9:16 H.264. Finished export is on Starter.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
