@@ -225,6 +225,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Design
 
+- [TeslaWraps](https://teslawraps.design) - Free browser Tesla Paint Shop wrap designer with 3D preview; core editing + PNG export without an account (optional AI credits)
 - [Figma](https://figma.com) - The first interface design tool with real-time collaboration
 - [Penpot](https://penpot.app) - Open source, web-based interface design application.
 - [STUDIO](https://studio.design/) - Design to live website in one click.
@@ -371,6 +372,9 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Loom](https://loom.com) - Seamless screen, mic, and camera recording for Chrome
 - [OpenCreator](https://opencreator.ai) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
 - [pitchboom.io](https://pitchboom.io) - AI motion-design studio for video ads: paste a product URL or a short brief, edit and approve the storyboard, and get voiced 1080p MP4s in 16:9, 9:16, 1:1, 4:5 and 3:4, each format recomposed rather than cropped. Paid plans from €30/month.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI tool: two photos → 13s studio dance video (Paid from $8.90). Not affiliated with Stromae/TikTok; original electronic audio, not the song.
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
 - [ReelWorkshop](https://reelworkshop.com) - Browser compilation maker: import your own clips, arrange and trim, preview free, and export vertical 9:16 H.264. Finished export is on Starter.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
