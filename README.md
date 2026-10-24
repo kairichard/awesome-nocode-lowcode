@@ -225,6 +225,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Design
 
+- [TeslaWraps](https://teslawraps.design) - Free browser Tesla Paint Shop wrap designer with 3D preview; core editing + PNG export without an account (optional AI credits)
 - [Figma](https://figma.com) - The first interface design tool with real-time collaboration
 - [Penpot](https://penpot.app) - Open source, web-based interface design application.
 - [STUDIO](https://studio.design/) - Design to live website in one click.
