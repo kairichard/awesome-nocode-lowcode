@@ -64,6 +64,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Xenition](https://xenition.com) - One AI workspace with 23 editing surfaces: describe what you want in chat and get full-stack apps, docs, decks, spreadsheets, images, or research, all sharing the same memory and asset library. Free tier with 25,000 credits per month.
 
 ## AI-Assisted Development
+- [agent-qa](https://github.com/vostride/agent-qa) - Natural-language testing for web, Android and iOS, with advanced memidex memory and self-improvement.
 - [Pineify](https://pineify.app) - No-code visual builder and AI coding agent for creating TradingView indicators, strategies, and screeners in Pine Script v6.
 
 - [Throughstone](https://github.com/mherschberg/Throughstone) - Architecture-first scaffold and method for building maintainable software with AI coding agents.
