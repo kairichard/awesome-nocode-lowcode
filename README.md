@@ -83,6 +83,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [VisualSitemaps](https://visualsitemaps.com) - Autogenerate Visual Sitemaps & Screenshots in Seconds
 - [Simple Analytics](https://simpleanalytics.io) - Simple, clean, and friendly analytics.
 - [Posthog](https://posthog.com/) - Open source product analytics.
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ## Automation
 
