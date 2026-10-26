@@ -156,6 +156,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Suriya](https://suriya.ai) - AI-powered app builder for Thai small businesses. Describe your idea, get a working custom app in 5 minutes. No code required. ฿349/month.
 - [Plant An App](https://www.plantanapp.com) - The Secret Weapon of Software Development
 - [Quick Base](https://quickbase.com) - The best way to manage data and automate processes, so you can accomplish more.
+- [WishKit](https://www.wishkit.io) - In-app feature request board where users submit and vote on features
 - [Zoho Creator](https://www.zoho.com/creator) - Custom apps to run your business.
 - [Novacura](https://www.novacura.com) - Streamline your processes with mobile and fully-adaptable software solutions. Extend your ERP with ready to use low-code applications or create your own.
 - [Loopple](https://www.loopple.com) - Drag and drop dashboard builder
