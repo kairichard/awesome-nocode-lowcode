@@ -224,6 +224,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Rowflare](https://rowflare.com) - Open source Airtable alternative with views, formulas, automations and an MCP server; self-hosts on your own Cloudflare account.
 - [Tachybase](https://github.com/tachybase/tachybase) - Free & Open Source Airtable Alternative  - turns any SQL databases into web app.
 - [Tadabase](https://tadabase.io) - No Code Database Web App Builder
+- [Teable](https://teable.ai/) - AI spreadsheet for business that lets teams connect data, build custom apps, and automate workflows using natural language.
 - [Trevor](https://www.trevor.io) - Query your live data, without code.
 - [Draxlr](https://www.draxlr.com) - Build Dashboards, Get Alerts.
 - [Dashbase](https://www.dashbase.ai) - Build collaborative KPI dashboards from your SQL database.
