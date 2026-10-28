@@ -66,6 +66,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## AI-Assisted Development
 - [agent-qa](https://github.com/vostride/agent-qa) - Natural-language testing for web, Android and iOS, with advanced memidex memory and self-improvement.
+- [AppWizzy](https://appwizzy.com/) - AI-powered web app builder with a dedicated development VM, Git integration, and support for PHP, Python, and Node.js stacks.
 - [Pineify](https://pineify.app) - No-code visual builder and AI coding agent for creating TradingView indicators, strategies, and screeners in Pine Script v6.
 
 - [Throughstone](https://github.com/mherschberg/Throughstone) - Architecture-first scaffold and method for building maintainable software with AI coding agents.
