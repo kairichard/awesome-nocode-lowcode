@@ -52,6 +52,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Blog Posts](#blog-posts)
 
 ## Agentic Apps
+- [Agentivity](https://www.agentivity.io) - Build teams of AI agents and workflows without code: each agent has its own role, information and tools, a manager agent can split the work, and a person can approve before anything goes out. Hosted, or self-hosted with Docker.
 - [BigPipe](https://bigpipe.agency) - Turns a marketing or growth agency's expertise into a self-running company: an AI builds the website, product, billing, and back office and runs them on autopilot, so you own a compounding business asset instead of billing hours.
 - [LLMGraph](https://llmgraph.ai) - No-code visual builder for LLM/AI workflows: turn your docs and models into RAG chatbots and AI agents, then deploy each to a REST API and an embeddable chat widget in one click.
 - [Manifest](https://www.manifest.build/) - Build governed agentic apps with an AI powered workflow builder.
