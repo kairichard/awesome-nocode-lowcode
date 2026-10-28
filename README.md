@@ -194,6 +194,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Data & Scraping
 
 - [APIFY](https://apify.com/) - Extract data from any website
+- [CSV to REST API](https://beeceptor.com/csv-to-api/) - Turn CSV files into hosted REST APIs with create, read, update, and delete operations for prototypes and demos. No backend code or signup required.
 - [CurlShot](https://curlshot.com) - Screenshot API and free online tool that turns any URL, HTML or Markdown into PNG, JPEG, WebP, PDF or scrolling video, with ad and cookie-banner blocking. Free plan with 100 screenshots/month; remote MCP server for AI agents.
 - [Datacircle](https://datacircle.dev/) - Datacircle lists all the GTM APIs. Buyers compare plans on the sheet. Each plan's page links to the provider's site and API docs.
 - [DataFlowMapper](https://dataflowmapper.com/) - Data migration and conversion for onboarding
