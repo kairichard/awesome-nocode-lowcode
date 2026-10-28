@@ -436,6 +436,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Icybiz](https://icybiz.com/) - Free hosted visual website builder for small-business and personal sites. Create and publish without coding, a credit card, or a subscription.
 - [IM Creator](https://www.imcreator.com) - Free Website Builder
 - [Jimdo](https://www.jimdo.com) - Your Website Builder‎
+- [Kleap](https://kleap.co) - AI website and app builder: describe a site or app in chat, then edit and publish it. Includes a hosted MCP server so Claude, Cursor and other AI agents can create, edit and publish sites. Free plan available.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website
 - [Memberspace](https://www.memberspace.com) - Turn your audience into paying members.
 - [Naratake](https://naratake.com) - Website builder for local businesses — ordering, bookings and a back office on the published site, plus full source-code export.
