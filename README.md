@@ -91,6 +91,8 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [ActionDesk](https://actiondesk.io) - The spreadsheet that lets you gather and control all your data in one place.
 - [Activepieces](https://www.activepieces.com) - A no-code tool to automate your business.
 - [Aident Loadout](https://aident.ai) - Connect your apps once and let AI agents such as Claude Code, Codex, Cursor and ChatGPT use them through one MCP setup, with 400+ expert-built Skills for research, outreach, content and operations. Credentials stay in a vault, every action is logged for audit, and you can start free on pay-as-you-go.
+- [Airtable Backup](https://github.com/viewcourier/airtable-backup) - Open-source Node.js script that backs up an Airtable base: every table to CSV, the schema as JSON, and optionally the attachment files. No dependencies.
+- [Airtable to Google Sheets](https://github.com/viewcourier/airtable-to-google-sheets) - Open-source Google Apps Script that syncs an Airtable table or view into a Google Sheet on a time trigger, with pagination and retry on rate limits.
 - [Appy Pie Automate](https://appypieautomate.ai) - No-code workflow automation platform with 1,000+ integrations to connect Gmail, Slack, Shopify, HubSpot, and more.
 - [Bellchain](https://bellchain.app/en/) - Build crypto alerts from nodes such as RSI, EMA and volume, replay them on real prices with take-profit and stop-loss, and get them via Telegram, push or email. Free plan.
 - [Blueprint Runtime](https://github.com/intikhab49/blueprint-runtime) - Open-source CLI to test Make.com (Integromat) scenarios offline: replays real Make runs and flags broken mappings before deploy.
@@ -194,6 +196,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Data & Scraping
 
+- [Airtable Attachments Downloader](https://github.com/viewcourier/airtable-attachments-downloader) - Open-source Python script that downloads every attachment from an Airtable base, table or view into local folders. Standard library only.
 - [APIFY](https://apify.com/) - Extract data from any website
 - [CSV to REST API](https://beeceptor.com/csv-to-api/) - Turn CSV files into hosted REST APIs with create, read, update, and delete operations for prototypes and demos. No backend code or signup required.
 - [CurlShot](https://curlshot.com) - Screenshot API and free online tool that turns any URL, HTML or Markdown into PNG, JPEG, WebP, PDF or scrolling video, with ad and cookie-banner blocking. Free plan with 100 screenshots/month; remote MCP server for AI agents.
