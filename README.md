@@ -363,6 +363,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Bravo Studio](https://www.bravostudio.app/) - Where your designs become real native apps
 - [Convertigo](https://www.convertigo.com/) - Open-source enterprise low-code platform with AI-assisted development for web, mobile, PWA, and offline-capable applications.
 - [draftbit](https://draftbit.com/) - Create, customize, and launch mobile apps all from your browser. Source code included.
+- [Flangapp AI](https://flangapp.com) - Self-hosted white-label platform for running your own app-building service: your clients turn their websites into native iOS and Android apps by describing what they want to an AI assistant.
 - [miniAppMaker](https://miniAppMaker.com) - Make mobile apps using Airtable!
 - [Newly](https://newly.app/) - Build native iOS and Android apps from natural-language prompts.
 - [Thunkable](https://thunkable.com) - The No-Code App Builder
