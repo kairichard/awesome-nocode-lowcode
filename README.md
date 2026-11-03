@@ -464,6 +464,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Tilda](https://tilda.cc) - Create beautiful websites without any code.
 - [Udesly](https://www.udesly.com) - Use Webflow to create WordPress and Shopify Themes
 - [Universe](https://onuniverse.com) - Make an awesome website from your phone.
+- [Unshift](https://unshift.ai/) - Visual website builder for service and portfolio sites. Free accounts can create and publish up to three sites on Unshift addresses; Pro adds custom domains and code export.
 - [Versoly](https://versoly.com/) - The Easiest Way to Build Your SaaS Website
 - [WeInc](https://we.inc) - AI website builder that generates full React + Tailwind sites from a text prompt in under 60 seconds.
 - [Webflow](https://webflow.com/) - Break the code barrier, Build better business websites, faster. Without coding.
