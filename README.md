@@ -418,6 +418,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Cloud Canal](https://www.cloudcanal.io) - Static Sites -> Web Apps
 - [Convertigo](https://www.convertigo.com/) - Open-source enterprise low-code platform with AI-assisted development for full-stack web applications, APIs, workflows, and integrations.
 - [Corvid](https://wix.com/corvid) - Build advanced web applications, hassle-free.
+- [IdeaMade](https://ideamade.ai) - Build and publish web apps from natural language, with editable product blueprints, reviewable change plans, live previews, and version history.
 - [InstaMaps](https://get-instamaps.com) - Turn a Google Sheet into a live map, store locator or delivery tracking app.
 - [Layerwise](https://layerwise.app) - Build full-stack web apps with AI in a desktop workspace, with local previews, a built-in database, authentication, and publishing.
 - [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
