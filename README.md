@@ -210,6 +210,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [ScrapeUnblocker](https://docs.scrapeunblocker.com/no-code/overview) - Describe the data you want in plain language, and it plans the scrape, opens the pages in a real browser (including sites behind Cloudflare and other anti-bot checks) and emails the results as CSV or JSON. Runs once or on a schedule; a scraping API is available for developers.
 - [SiftingIO Market Data Export](https://sifting.io/tools/market-data-export) - Chart and download historical US stock/ETF, forex, commodity and crypto data as CSV or Excel without code; limited guest preview, with larger exports using your SiftingIO account and API key.
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds
+- [Website Contact Extractor](https://apify.com/hirewebscraper/website-contact-extractor) - Apify Actor that finds emails, phones and social links on company websites.
 - [Website Email Extractor](https://apify.com/tidytools/website-contact-extractor) - Collect emails, phone numbers and social links from company websites or Google Maps results without code. Pay per use ($2 per 1,000 sites); sites with nothing found are free.
 - [WeTransform](https://www.wetransform.com) - Embeddable AI file importer for B2B SaaS. Customers upload CSV, Excel, PDF, XML or JSON, the AI maps columns and validates, your system receives clean data through an API.
 
