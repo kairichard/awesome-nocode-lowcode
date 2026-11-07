@@ -272,6 +272,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Forms
 
 - [ActiveCalculator](https://activecalculator.com) - Create custom calculators for your website with no-code builder.
+- [anon.li Form](https://anon.li/form) - End-to-end encrypted form builder. Answers are encrypted in the respondent's browser with the form's public key, so only the form owner can read them. Open source (AGPL-3.0); free plan with 3 forms and 50 submissions a month.
 - [Convertigo](https://www.convertigo.com/) - Open-source enterprise low-code platform with AI-assisted development for governed forms and workflow applications.
 - [Feathery](https://feathery.io) - Powerful form builder for product teams
 - [FlexyForm](https://www.flexyform.com) - Contact Forms Backend as Service
