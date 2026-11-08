@@ -242,6 +242,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [APPLORE](https://applore.app/ai-app-icon-generator) - Make app icons without design skills: AI icon generator, export every iOS/Android size, App Store screenshots.
 - [Figma](https://figma.com) - The first interface design tool with real-time collaboration
+- [objekto.io](https://objekto.io/en) - Design physical objects without CAD skills: describe one in a few words, a photo or a sketch, and its AI designs a print-ready multi-part 3D model with an exploded view and an assembly guide; an industrial 3D-printing workshop then makes it and delivers it (France only at launch). 2,000 free credits at sign-up; plans from €29/month.
 - [Particle Logo](https://particlelogo.com) - Browser tool that turns a logo into a particle animation without code. Pick one of 9 effects, then export video, GIF, or a dependency-free HTML, Vue or React component, plus embed code for Framer and Webflow. The free plan exports watermarked video and GIF; Pro removes the watermark and adds code exports.
 - [Penpot](https://penpot.app) - Open source, web-based interface design application.
 - [STUDIO](https://studio.design/) - Design to live website in one click.
