@@ -102,6 +102,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [CallURL](https://callurl.com) - Create a free AI phone line for any flyer, room, product, assignment, event, form, or workflow. Answers every call and shares by link or QR.
 - [Clay](https://clay.run) - Build tools & workflows to supercharge your team
 - [EasyClaw](https://easyclaw.com) - AI-powered workflow automation platform for ecommerce operations and teams.
+- [Fwrd](https://www.fwrdsms.com) - iPhone app that forwards incoming texts to email, Slack, Teams, Discord, Telegram, WhatsApp or a webhook for n8n, Zapier and Make, through an Apple Shortcuts automation. No account; 15 free forwards a month.
 - [Heym](https://heym.run) - AI-native no-code workflow automation platform with a visual canvas, agent nodes, RAG, MCP support, evals, and observability.
 - [IFTTT](https://ifttt.com) - Do more with the services you love.
 - [Iotellect](https://iotellect.com) - Low-code IoT platform for device integration, data collection, and real-time dashboards. Supports MQTT, OPC UA, Modbus, and 50+ industrial protocols.
