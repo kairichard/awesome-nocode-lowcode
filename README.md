@@ -445,6 +445,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [blasa](https://blasa.shop) - AI website builder that turns a Google Maps listing into a live multilingual website for a local business, using copy from its real customer reviews, with a free plan.
 - [Bloggi](https://bloggi.co) - A simple blogging platform
 - [Bookmark](https://www.bookmark.com) - Create a Website with AI
+- [BrewPage](https://brewpage.app/) - Paste or upload HTML, Markdown or files, or publish from an AI agent through its API or remote MCP server, and get a shareable https link. Free, no signup; publications expire (15 days by default).
 - [Cactal](https://cactal.ai) - The website platform for AI agents.
 - [deed.page](https://deed.page) - Static hosting for AI agents: an agent publishes HTML or a folder with one HTTP PUT or through a remote MCP server and gets a live https URL. Free plan with no signup.
 - [DreamWidget](https://dreamwidget.com) - No-code logo showcase and video wall widgets for any website: designed in a visual editor per screen size, embedded with one iframe, unlimited views on every plan.
