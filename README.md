@@ -246,6 +246,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [objekto.io](https://objekto.io/en) - Design physical objects without CAD skills: describe one in a few words, a photo or a sketch, and its AI designs a print-ready multi-part 3D model with an exploded view and an assembly guide; an industrial 3D-printing workshop then makes it and delivers it (France only at launch). 2,000 free credits at sign-up; plans from €29/month.
 - [Particle Logo](https://particlelogo.com) - Browser tool that turns a logo into a particle animation without code. Pick one of 9 effects, then export video, GIF, or a dependency-free HTML, Vue or React component, plus embed code for Framer and Webflow. The free plan exports watermarked video and GIF; Pro removes the watermark and adds code exports.
 - [Penpot](https://penpot.app) - Open source, web-based interface design application.
+- [Pic2Vector](https://pic2vector.com/) - Free browser-based converter that turns PNG, JPG, and WebP images into editable SVG vector graphics, no design software or account needed.
 - [STUDIO](https://studio.design/) - Design to live website in one click.
 - [unDraw](https://undraw.co) - Free, open-source illustrations for every project.
 
