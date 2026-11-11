@@ -424,6 +424,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Web Apps
 
 - [Adalo](https://www.adalo.com) - Create an app without code.
+- [AppStruct](https://appstruct.ai/app-builder) - Visual no-code app builder with reusable components, workflows, built-in tables, Supabase and HTTP API connections, and web publishing.
 - [Bubble](https://bubble.io/) - Build production-ready web apps.
 - [Cloud Canal](https://www.cloudcanal.io) - Static Sites -> Web Apps
 - [Convertigo](https://www.convertigo.com/) - Open-source enterprise low-code platform with AI-assisted development for full-stack web applications, APIs, workflows, and integrations.
