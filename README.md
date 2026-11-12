@@ -184,6 +184,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [rulai](https://www.rul.ai) - AI Chatbot to Deliver Scalable Self Service
 - [Runbear](https://runbear.io) - No-code AI teammate for Slack & Teams; answers from your knowledge bases and takes action across 2,000+ tools via MCP.
 - [Smooch](https://smooch.io) - Instantly deploy your bots wherever users are.
+- [TeleCrow](https://telecrow.com) - No-code builder for Telegram bots: digital product shops with instant delivery, paid channel subscriptions and AI sales assistants, with Telegram Stars, crypto and card payments.
 
 ## Collaboration
 
