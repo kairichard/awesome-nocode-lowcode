@@ -388,6 +388,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Thunkable](https://thunkable.com) - The No-Code App Builder
 - [Utilize](https://www.utilize.app) - Apps from Google Sheets, in minutes. 
 - [NotionApps](https://www.notionapps.com) - Builder powerful apps from Notion databases. Share limited views or private apps.
+- [Vibeminter](https://vibeminter.com) - Builds a native iPhone app from a chat in the browser, with no Mac and no code. You can browse the Swift files, download the project as a zip, and publish the app yourself under your own Apple Developer account.
 
 ## Payments
 
