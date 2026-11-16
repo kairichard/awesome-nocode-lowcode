@@ -460,6 +460,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [BrewPage](https://brewpage.app/) - Paste or upload HTML, Markdown or files, or publish from an AI agent through its API or remote MCP server, and get a shareable https link. Free, no signup; publications expire (15 days by default).
 - [Cactal](https://cactal.ai) - The website platform for AI agents.
 - [deed.page](https://deed.page) - Static hosting for AI agents: an agent publishes HTML or a folder with one HTTP PUT or through a remote MCP server and gets a live https URL. Free plan with no signup.
+- [Deframer](https://deframer.co/) - Converts a published Framer site into a code project (Next.js, Astro, React Router, TanStack Start, Vite, Nuxt or static HTML) you can host anywhere, with a free side-by-side preview.
 - [DreamWidget](https://dreamwidget.com) - No-code logo showcase and video wall widgets for any website: designed in a visual editor per screen size, embedded with one iframe, unlimited views on every plan.
 - [Encer](https://encer.me/en) - No-code interactive link-in-bio page builder for creators with polls, messages, giveaways, live updates, and privacy-aware analytics.
 - [Figment.so](https://figment.so/) - Publish Figma designs as websites with a Figma plugin and hosted subdomains.
