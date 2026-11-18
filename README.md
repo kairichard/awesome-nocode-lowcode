@@ -73,6 +73,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Throughstone](https://github.com/mherschberg/Throughstone) - Architecture-first scaffold and method for building maintainable software with AI coding agents.
 - [Explain My Build](https://explainmybuild.com) - Reads the real code of an app you built with AI and writes a plain-English end-user guide, a founder runbook, and a code-verified fix-list — from the code, not a screen recording.
 - [FixLoop Guides](https://fixloop.dev/guides) - Free plain-English fixes for apps built with Lovable and Supabase, such as login that works in preview but not in production, saves that silently fail under RLS, Stripe webhook 401s, and the Oct 30, 2026 Supabase grants change.
+- [Keybrum](https://keybrum.com) - Automated penetration test for live apps built with Lovable, Bolt, Replit, v0 or Cursor. Attacks the deployed app as a stranger, as a new user, then as a second user, shows each request that worked and writes the fix for the coding agent. Free check with no account, reports from €49.
 
 - [MergeFix](https://mergefix.com) - Audits an AI-built app for SEO, performance, accessibility, and security issues and opens the fixes as a real GitHub pull request. Also has a "Migrate & Own" flow to move an app built on Bolt/Lovable/Replit into a repo you fully own.
 
