@@ -469,6 +469,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [DreamWidget](https://dreamwidget.com) - No-code logo showcase and video wall widgets for any website: designed in a visual editor per screen size, embedded with one iframe, unlimited views on every plan.
 - [Encer](https://encer.me/en) - No-code interactive link-in-bio page builder for creators with polls, messages, giveaways, live updates, and privacy-aware analytics.
 - [Figment.so](https://figment.so/) - Publish Figma designs as websites with a Figma plugin and hosted subdomains.
+- [FileShare Pro](https://file-share-pro.com) - Upload an HTML file made by Claude, ChatGPT or another AI tool and get a shareable https link. Viewers comment on the page without an account, and you can replace the file at the same link. Free plan.
 - [France Nuage Webstudio](https://france-nuage.fr) - Managed Webstudio (open-source visual website builder, alternative to Webflow) hosted in France. Sovereign hosting, GDPR compliant.
 - [FreshStore](https://www.freshstore.com) - Affiliate site builder: pick a niche and the site goes live with Amazon and eBay products, your affiliate links, AI-written pages and hosting included.
 - [Grapedrop](https://grapedrop.com) - Free and custom websites and landing pages
