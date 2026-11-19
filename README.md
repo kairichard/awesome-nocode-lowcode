@@ -475,6 +475,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [FileShare Pro](https://file-share-pro.com) - Upload an HTML file made by Claude, ChatGPT or another AI tool and get a shareable https link. Viewers comment on the page without an account, and you can replace the file at the same link. Free plan.
 - [France Nuage Webstudio](https://france-nuage.fr) - Managed Webstudio (open-source visual website builder, alternative to Webflow) hosted in France. Sovereign hosting, GDPR compliant.
 - [FreshStore](https://www.freshstore.com) - Affiliate site builder: pick a niche and the site goes live with Amazon and eBay products, your affiliate links, AI-written pages and hosting included.
+- [Ginta](https://ginta.app) - AI website builder for small businesses: describe the business and get a live website in a minute or two, with contact forms, bookings, an online shop and a blog. A remote MCP server (OAuth) lets Claude or ChatGPT build and edit the sites too. Free plan; custom domains on paid plans.
 - [Grapedrop](https://grapedrop.com) - Free and custom websites and landing pages
 - [Helmpages](https://helmpages.com/) - Business websites for independent professionals, built and kept up to date by sending a message.
 - [HtmlDrag](https://htmldrag.com/) - Visual editor for existing and AI-generated HTML pages, with drag-and-drop editing, element-level AI refinement, and HTML export for your own hosting.
