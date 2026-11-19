@@ -18,6 +18,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
   - [Chatbots](#chatbots)
   - [Collaboration](#collaboration)
   - [CRM](#crm)
+  - [Customer Research](#customer-research)
   - [Data & Scraping](#data--scraping)
   - [Database](#database)
   - [Design](#design)
@@ -200,6 +201,10 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Kartra](https://kartra.com) - Online Business Made Easy
 - [Salesflare](https://salesflare.com) - Simple yet powerful CRM for small businesses selling B2B.
+
+## Customer Research
+
+- [Frank AI Researcher](https://www.hifrank.ai) - No-code AI-moderated voice interviews with your own customers; share a link or website widget and read the transcripts.
 
 ## Data & Scraping
 
