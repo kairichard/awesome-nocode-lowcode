@@ -447,6 +447,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [EveryApp](https://everyapp.pro/app-builder) - Describe an app in your own words and it gets built for you, with its own web address, for you and the people you invite. No coding. Free, with a paid Pro plan.
 - [IdeaMade](https://ideamade.ai) - Build and publish web apps from natural language, with editable product blueprints, reviewable change plans, live previews, and version history.
 - [InstaMaps](https://get-instamaps.com) - Turn a Google Sheet into a live map, store locator or delivery tracking app.
+- [Kliv](https://kliv.dev) - Describe an app in chat and get a working, hosted web app with a database, sign-in, payments and email built in. Free plan; Pro is $19/month.
 - [Layerwise](https://layerwise.app) - Build full-stack web apps with AI in a desktop workspace, with local previews, a built-in database, authentication, and publishing.
 - [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
 - [Mythex](https://mythex.ai) - Describe a web app in chat and it is built, run with a live preview, given a Postgres database, and published to a public URL; code and terminal stay accessible, and projects export to git.
