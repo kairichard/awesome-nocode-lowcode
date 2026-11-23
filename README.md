@@ -278,6 +278,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [EDMdesigner](https://edmdesigner.com) - Responsive email design made simple.
 - [Mailchimp](https://www.mailchimp.com) - Email marketing & automation
 - [Postcards](https://designmodo.com/postcards) - Create awesome emails with drag & drop simplicity.
+- [RelayMail](https://relaymail.app/?ref=awesome-nocode-lowcode) - Turns a team address like support@ into Slack threads: anyone in the channel replies there and the customer gets a normal email. Needs only a forwarding rule.
 - [Sendgrid](https://sendgrid.com) - Email delivery service.
 - [Stripo](https://stripo.email) - Free email template builder.
 - [Substack](https://substack.com/) - Paid newsletters made simple
