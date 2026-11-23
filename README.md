@@ -431,6 +431,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Voice
 
 - [AnveVoice](https://anvevoice.app) - No-code AI voice agent for websites — one-line JS embed, trains on your content, talks to visitors in 50+ languages.
+- [CallForMe](https://callforme.tel/?ref=awesome-nocode-lowcode) - Phones businesses for you from Claude, ChatGPT or any MCP agent: quotes, bookings and cancellations, returned as answers plus a transcript. Prepaid, $1 per answered call.
 - [Frank AI Researcher](https://www.hifrank.ai) - No-code AI-moderated voice interviews with your own customers; share a link or website widget and read the transcripts.
 - [Vuix](https://vuix.io) - Design voice apps in minutes.
 
