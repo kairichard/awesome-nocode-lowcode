@@ -134,6 +134,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [TV-Hub](https://www.tv-hub.org/) - Automate crypto trades from TradingView alerts without code or a server.
 - [Upload-Post](https://www.upload-post.com) - Social media publishing API for posting and scheduling to TikTok, Instagram, YouTube, LinkedIn, X and more, with Zapier, Make and n8n integrations and an MCP server. Free plan available.
 - [Formstack](https://www.webmerge.me/) - Document automation software
+- [Wix-to-Notion Setup Studio](https://dylan-workflows.impactlayer.workers.dev/setup-studio/studio/) - Free MIT-licensed browser editor for mapping Wix enquiry fields to a Notion connector configuration. Exports JSON locally without credentials or API calls. Includes a Python reference connector requiring separate deployment; live Wix/Notion delivery is unverified.
 - [Zapier](https://zapier.com) - Automate tasks by integrating your favorite apps.
 - [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore.
 - [Outfunnel](https://outfunnel.com) - Connect your sales and marketing data, deeply and easily.
