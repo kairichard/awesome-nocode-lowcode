@@ -249,6 +249,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Design
 
 - [App Store Localizer](https://asolocalization.com) - Localize App Store screenshots + metadata (title, subtitle, description, keywords) per locale from a public App Store URL, no design skills needed.
+- [App Store Screenshot Resizer](https://bestlatestapps.com/tools/app-store-screenshot-resizer/) - Free browser tool that resizes one screenshot to every App Store Connect size, from iPhone to the 13-inch iPad and Mac, and downloads them as a ZIP. No sign-up; the site shows ads.
 - [APPLORE](https://applore.app/ai-app-icon-generator) - Make app icons without design skills: AI icon generator, export every iOS/Android size, App Store screenshots.
 - [AppScreen](https://appscreen.pro) - Free browser editor for App Store and Google Play screenshots with device frames, captions and backgrounds, no sign-up.
 - [Figma](https://figma.com) - The first interface design tool with real-time collaboration
