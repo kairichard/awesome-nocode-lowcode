@@ -77,6 +77,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [MergeFix](https://mergefix.com) - Audits an AI-built app for SEO, performance, accessibility, and security issues and opens the fixes as a real GitHub pull request. Also has a "Migrate & Own" flow to move an app built on Bolt/Lovable/Replit into a repo you fully own.
 
+- [Saqr](https://usesaqr.com) - Security testing for live apps built with Lovable, Bolt, Cursor, Replit, v0 or Supabase, run only on apps you show are yours. Each finding comes with proof and a fix prompt for your AI tool, and rechecks run from chat. Paid, from $19 a month.
 - [VibeSitter](https://vibesitter.app) - Read-only security scans and monitoring for apps built with Lovable, Bolt, v0, and Supabase. Free surface scan plus plain-English fixes and AI-tool prompts.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes. For developers who want a quick agent loop and for operators who need typed task, validation, merge, and release-readiness boundaries.
 
