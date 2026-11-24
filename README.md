@@ -427,6 +427,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [graphqleditor](https://graphqleditor.com/) - A Better Way to GraphQL
 - [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications
 - [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser — click any element, describe changes in plain English, and get real code edits. Designed for cross-functional teams.
+- [RocketRide](https://github.com/rocketride-org/rocketride-server) - Open-source (MIT) AI meta-harness with an enterprise-grade runtime built on C++. Build AI pipelines by connecting nodes on a visual canvas in VS Code, or drive the same portable JSON pipelines from the Python and TypeScript SDKs, a CLI or an AI assistant over MCP. Self-host with Docker or use the hosted service.
 - [WZSoft](https://github.com/szwilsonchan/wzsoft) - Enterprise low-code platform with visual data views, drag-and-drop code designer (compiles to server-side JS via Nashorn), and workflow engine. AI-operable via REST APIs.
 
 ## Voice
