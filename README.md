@@ -264,6 +264,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Pic2Vector](https://pic2vector.com/) - Free browser-based converter that turns PNG, JPG, and WebP images into editable SVG vector graphics, no design software or account needed.
 - [STUDIO](https://studio.design/) - Design to live website in one click.
 - [unDraw](https://undraw.co) - Free, open-source illustrations for every project.
+- [XShots](https://selfark.com/xshots) - Native macOS editor for designing and localizing App Store and Google Play screenshot sets. Arrange multiple screens on one canvas and batch-export sizes and languages. Three-day full trial, followed by a paid pass or lifetime purchase.
 
 ## Ecommerce
 
