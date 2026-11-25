@@ -473,6 +473,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [8B AI Website Builder](https://8b.com/mcp/) - Builds an animated one-page website from a chat in Claude, ChatGPT, Cursor or other AI agents; preview link, edits in plain words, one HTML file.
 - [appsmith_](https://www.appsmith.com/) - Frontend as a Service to build internal apps
 - [Benchlight](https://benchlight.dev/) - Website builder and host for small businesses: create a free site, order a complete website with a domain, redesign an existing site, and manage hosting.
+- [BestWebsiteTemplate.com](https://bestwebsitetemplate.com/) - Free library of 1,000+ reviewed Webflow, Framer and Shopify website templates, each opened page by page and scored for design and build quality, with filters for industry, style and features.
 - [blasa](https://blasa.shop) - AI website builder that turns a Google Maps listing into a live multilingual website for a local business, using copy from its real customer reviews, with a free plan.
 - [Bloggi](https://bloggi.co) - A simple blogging platform
 - [Bookmark](https://www.bookmark.com) - Create a Website with AI
