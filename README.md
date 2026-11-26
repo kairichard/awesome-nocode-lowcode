@@ -162,6 +162,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Internal](https://internal.io) - Console-as-a-service, better tools for customer-facing teams
 - [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/) - Connect your business-critical apps and services with Azure Logic Apps, automating your workflows without writing a single line of code.
 - [Lowdefy](https://lowdefy.com) - An open-source low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with ease by simply writing YAML.
+- [maverickbuilds.app](https://maverickbuilds.app) - Build planning, analytics and data management apps with multidimensional models, workflows, automations, integrations and dashboards, with an AI developer inside. It also includes an MCP server for Claude and ChatGPT. Free hosted Playground, or self-host the source-available Community Edition with unlimited users.
 - [Mintdata](https://mintdata.com/) - Use the full power of a spreadsheet to create application logic.
 - [Naologic](https://naologic.com) - Productivity apps built by business users and process-driven professionals to simplify and automate complex processes.
 - [Ninox](https://ninoxdb.de) - Create Business Apps for Mac, iPad and iPhone.
