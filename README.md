@@ -465,6 +465,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [PHPRunner](https://xlinesoft.com/phprunner/index.htm) - Commercial low-code builder for web applications using existing databases, with forms, reports, permissions, and deployment to your own web server.
 - [SpreadsheetWeb](https://www.spreadsheetweb.com) - A NoCode platform for Excel users
 - [Stacker](https://stacker.app) - Build web apps in your browser, without code.
+- [Tofu](https://trytofu.ai) - Puts an app made with an AI tool online at a link anyone can open. A coding agent such as Claude Code, Codex or Cursor, or a chat in Claude, or in ChatGPT added by address, deploys it, reads its status and logs, restores an earlier version, connects a domain you own, and adds a managed database or Google sign-in.
 - [Widgetic](https://widgetic.com) - A marketplace for website building blocks.
 - [Berrry](https://berrry.app) - Transform Twitter posts and Reddit content into functional web applications using AI.
 
