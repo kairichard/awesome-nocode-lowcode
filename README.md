@@ -510,6 +510,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Silex](https://www.silex.me) - Open source visual website builder for static sites. Standard HTML/CSS output, publish to GitLab/FTP/Nextcloud, no platform lock-in (alternative to Webflow).
 - [Squarespace](https://squarespace.com) - All-in-one platform to build a beautiful online presence.
 - [Strikingly](https://www.strikingly.com) - Make a website in minutes
+- [Template QA](https://qa.shashankthigale.com/) - Checks a published Framer site at eight screen widths, from a 320 px phone to a 2560 px monitor, and reports layout, accessibility and SEO problems with a screenshot and the fix for each. Also a free Framer plugin.
 - [Tilda](https://tilda.cc) - Create beautiful websites without any code.
 - [Udesly](https://www.udesly.com) - Use Webflow to create WordPress and Shopify Themes
 - [Universe](https://onuniverse.com) - Make an awesome website from your phone.
