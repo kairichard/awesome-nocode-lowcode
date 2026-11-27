@@ -203,6 +203,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## CRM
 
+- [Genaya](https://www.genaya.com) - CRM, scheduling, estimates, invoices and payments for service businesses, with an AI receptionist that answers calls and texts.
 - [Kartra](https://kartra.com) - Online Business Made Easy
 - [Salesflare](https://salesflare.com) - Simple yet powerful CRM for small businesses selling B2B.
 
