@@ -431,6 +431,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [shortshort](https://www.shortshort.io) - Turns one long video (up to 3 hours) into vertical 9:16 shorts of 15-90 seconds: cuts on complete sentences from the transcript, reframes by tracking the face, and times captions word by word. The manual editor and MP4 export work without an account; 60 free credits at sign-up (1 credit = 1 minute of source video), no card.
 ## Visual Programming
 
+- [Ciaren](https://github.com/ciaren-labs/Ciaren) - Open-source visual editor for data and machine learning workflows that exports standalone Python scripts using pandas or Polars.
 - [Darklang](https://darklang.com/) - Build an entire backend in just hours.
 - [graphqleditor](https://graphqleditor.com/) - A Better Way to GraphQL
 - [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications
