@@ -274,6 +274,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Big Cartel](https://www.bigcartel.com) - Easy online stores for artists & makers
 - [Checkout Page](https://checkoutpage.com) - Sell digital products, subscriptions & event tickets through your own Stripe account.
 - [Gumroad](https://gumroad.com) - Sell anything directly to anyone.
+- [Listvane](https://listvane.com/?ref=awesome-nocode-lowcode) - Website checker for online stores: scans a store's public pages for the problems behind Google Merchant Center suspensions and re-scans weekly. Paid, report from $39.
 - [Monto](https://monto.io) - Product Reviews for Webflow (and Foxy).
 - [Podia](https://podia.com) - Easily sell memberships, online courses & digital downloads.
 - [ShopSavvy](https://shopsavvy.com) - Price comparison across thousands of retailers with price alerts and deal discovery.
