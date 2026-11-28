@@ -200,6 +200,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Fibery](https://fibery.io) - Instead of trying to make scattered tools work, Build your own workspace
 - [Notion](https://notion.so) - The all-in-one workspace - notes, tasks, wikis, & databases.
 - [Quip](https://quip.com) - One place for all your team’s work.
+- [Taskhold](https://taskhold.com/?ref=awesome-nocode-lowcode) - One task list shared by a person and their coding agents, with live progress on a board and a remote MCP server. $12 per month.
 
 ## CRM
 
