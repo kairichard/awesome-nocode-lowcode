@@ -211,10 +211,23 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Airtable Attachments Downloader](https://github.com/viewcourier/airtable-attachments-downloader) - Open-source Python script that downloads every attachment from an Airtable base, table or view into local folders. Standard library only.
 - [APIFY](https://apify.com/) - Extract data from any website
+- [Ashby Jobs Scraper (Public Records)](https://apify.com/publicrecords/ashby-jobs-scraper) - New job postings from any Ashby board since a date or window (24h, 7d, 30d). No-code on Apify (API, schedules, or MCP). Pay-per-use on your own account.
+- [Calibration Ledger (Public Records)](https://apify.com/publicrecords/calibration-ledger) - Forecast track records for IMF, OECD, Fed, ECB SPF and listed issuers (errors and bias). No-code on Apify or MCP. Pay-per-use.
+- [Company Social Links (Public Records)](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to LinkedIn, X, YouTube, Instagram and Facebook links with evidence. No-code on Apify or MCP. Pay-per-use.
 - [CSV to REST API](https://beeceptor.com/csv-to-api/) - Turn CSV files into hosted REST APIs with create, read, update, and delete operations for prototypes and demos. No backend code or signup required.
 - [CurlShot](https://curlshot.com) - Screenshot API and free online tool that turns any URL, HTML or Markdown into PNG, JPEG, WebP, PDF or scrolling video, with ad and cookie-banner blocking. Free plan with 100 screenshots/month; remote MCP server for AI agents.
 - [Datacircle](https://datacircle.dev/) - Datacircle lists all the GTM APIs. Buyers compare plans on the sheet. Each plan's page links to the provider's site and API docs.
 - [DataFlowMapper](https://dataflowmapper.com/) - Data migration and conversion for onboarding
+- [Etsy Search Scraper (Public Records)](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword or category: price, rating, reviews, Bestseller and ad flag. No-code on Apify or MCP. Pay-per-use.
+- [Etsy Shop Daily Sales (Public Records)](https://apify.com/publicrecords/etsy-shop-velocity) - Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter. No-code on Apify or MCP. Pay-per-use.
+- [EU TED Tenders (Public Records)](https://apify.com/publicrecords/eu-ted-notices-scraper) - EU procurement notices from TED with buyer, CPV, value, deadline and source link. No-code on Apify or MCP. Pay-per-use.
+- [Google Ads Transparency (Public Records)](https://apify.com/publicrecords/google-ads-transparency-scraper) - Competitor Google ads from the Ads Transparency Center, with first and last shown dates. No-code on Apify or MCP. Pay-per-use.
+- [Grants.gov Scraper (Public Records)](https://apify.com/publicrecords/grants-gov-scraper) - Open US federal grants with agency, deadline, eligibility and listing link. No-code on Apify or MCP. Pay-per-use.
+- [Greenhouse Jobs Scraper (Public Records)](https://apify.com/publicrecords/greenhouse-jobs-scraper) - New job postings from any Greenhouse board since a date or window. No-code on Apify or MCP. Pay-per-use.
+- [Legistar Meetings Scraper (Public Records)](https://apify.com/publicrecords/legistar-meetings-scraper) - City council meetings, agenda items and documents for any city on Legistar. No-code on Apify or MCP. Pay-per-use.
+- [Lever Jobs Scraper (Public Records)](https://apify.com/publicrecords/lever-jobs-scraper) - New job postings from any Lever board since a date or window. No-code on Apify or MCP. Pay-per-use.
+- [SAM.gov + Grants.gov Feed (Public Records)](https://apify.com/publicrecords/govcon-opportunity-feed) - New US federal contract and grant notices from SAM.gov and Grants.gov in one feed. No-code on Apify or MCP. Pay-per-use.
+- [SmartRecruiters Jobs Scraper (Public Records)](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - New job postings from any SmartRecruiters careers site since a date or window. No-code on Apify or MCP. Pay-per-use.
 - [SmartXML](https://redata.dev/smartxml/) - An application for parsing XML of any complexity with support SQLite and PostgreSQL
 - [flatfile](https://flatfile.io/) - The elegant import button for your web app
 - [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Get the transcript of any YouTube video as text, SRT or JSON from the web page or a REST API, plus an n8n community node for no-code workflows.
@@ -225,6 +238,10 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [ScrapeUnblocker](https://docs.scrapeunblocker.com/no-code/overview) - Describe the data you want in plain language, and it plans the scrape, opens the pages in a real browser (including sites behind Cloudflare and other anti-bot checks) and emails the results as CSV or JSON. Runs once or on a schedule; a scraping API is available for developers.
 - [SiftingIO Market Data Export](https://sifting.io/tools/market-data-export) - Chart and download historical US stock/ETF, forex, commodity and crypto data as CSV or Excel without code; limited guest preview, with larger exports using your SiftingIO account and API key.
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds
+- [Sports Odds API (Public Records)](https://apify.com/publicrecords/sports-odds-api) - Live odds from 24 Kambi-powered sportsbooks, with every book's price and the best price per outcome. No-code on Apify or MCP. Pay-per-use.
+- [Spotify Play Counts (Public Records)](https://apify.com/publicrecords/spotify-play-count-scraper) - Play counts for tracks on a Spotify album, artist or playlist, plus monthly listeners. No-code on Apify or MCP. Pay-per-use.
+- [UK Tenders Scraper (Public Records)](https://apify.com/publicrecords/uk-find-a-tender-scraper) - UK tenders from Find a Tender and Contracts Finder: buyer, value, deadline and source link. No-code on Apify or MCP. Pay-per-use.
+- [USAspending Awards (Public Records)](https://apify.com/publicrecords/usaspending-awards-scraper) - US federal contract and grant awards by agency, recipient, NAICS and period. No-code on Apify or MCP. Pay-per-use.
 - [Website Contact Extractor](https://apify.com/hirewebscraper/website-contact-extractor) - Apify Actor that finds emails, phones and social links on company websites.
 - [Website Email Extractor](https://apify.com/tidytools/website-contact-extractor) - Collect emails, phone numbers and social links from company websites or Google Maps results without code. Pay per use ($2 per 1,000 sites); sites with nothing found are free.
 - [WeTransform](https://www.wetransform.com) - Embeddable AI file importer for B2B SaaS. Customers upload CSV, Excel, PDF, XML or JSON, the AI maps columns and validates, your system receives clean data through an API.
