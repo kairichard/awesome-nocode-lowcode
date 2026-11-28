@@ -385,6 +385,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [TinySnap](https://tinysnap.app) - A browser extension to capture screen and beautify screenshots
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose marketing utilities (no signup, browser-based): OG image generator, SEO meta tag generator, AI robots.txt generator, AI content disclosure generator (EU AI Act compliant), favicon generator, color palette generator, and a domain name generator. Open source.
 - [Autoposting](https://autoposting.ai) - AI social media manager that writes, clips, and schedules posts to X, LinkedIn, Instagram, Threads and YouTube
+- [Tweenery](https://tweenery.com) - AI agent that turns an idea or a post you like into a ready-to-post Instagram carousel or TikTok slideshow, written and designed from one chat message. Free plan available.
 - [Wavegrain](https://wavegrain.com) - Makes curated TikTok slideshows and Instagram carousels for your brand on autopilot, then schedules and posts them for you. Includes a hosted MCP server, so AI clients can plan and make posts too.
 - [Zyff](https://www.zyff.app/widget-builder) - No-code website widgets: Google reviews, Instagram feed, WhatsApp chat, FAQ, countdown timers and popups, styled in a live editor and embedded with one snippet. Free plan available.
 
